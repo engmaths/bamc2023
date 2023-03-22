@@ -1,9 +1,9 @@
 ---
-title: "Dynamics on ₵ with generalized Newton-Raphson maps: Julia sets, uncertainty dimension, and periodic orbits"
+title: "Dynamics on ℂ with generalized Newton-Raphson maps: Julia sets, uncertainty dimension, and periodic orbits"
 bookToc: false
 ---
 
-# Dynamics on ₵ with generalized Newton-Raphson maps: Julia sets, uncertainty dimension, and periodic orbits
+# Dynamics on ℂ with generalized Newton-Raphson maps: Julia sets, uncertainty dimension, and periodic orbits
 
 **James M Christian, G S Jensen**
 

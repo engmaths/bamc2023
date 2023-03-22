@@ -14,7 +14,7 @@ weight: 7
 - [Bifurcations for mechanisms of memory formation in a neural network]({{< relref "/talks/talk263" >}})
 - [Bird Gust Soaring Manoeuvre Identification for Energy Efficient Urban Flight]({{< relref "/talks/talk327" >}})
 - [Communication is the key: positional information transmission in the neural tube patterning]({{< relref "/talks/talk315" >}})
-- [Dynamics on ₵ with generalized Newton-Raphson maps: Julia sets, uncertainty dimension, and periodic orbits]({{< relref "/talks/talk221" >}})
+- [Dynamics on ℂ with generalized Newton-Raphson maps: Julia sets, uncertainty dimension, and periodic orbits]({{< relref "/talks/talk221" >}})
 - [Effects of delays on neuronal dynamics]({{< relref "/talks/talk017" >}})
 - [Improving Power by Conditioning on Major SNPs in Genetic Association Studies (GWAS)]({{< relref "/talks/talk344" >}})
 - [Investigating the influence of growth arrest mechanisms on tumour responses to radiotherapy]({{< relref "/talks/talk133" >}})
