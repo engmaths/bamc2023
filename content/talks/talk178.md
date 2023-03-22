@@ -7,7 +7,7 @@ bookToc: false
 
 **Tamsin A Spelman, Ifeanyi S Onah, David MacTaggart, Peter S Stewart**
 
-Monday at 3:10 PM in 4Q56.
+15:10 Monday in 4Q56.
 
 Part of the *[Mathematical and computational ophthalmology]({{< relref "/sessions/session20" >}})* session.
 

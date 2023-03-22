@@ -7,7 +7,7 @@ bookToc: false
 
 **Sergio S Rodrigues**
 
-Wednesday at 12:10 PM in 2Q48.
+12:10 Wednesday in 2Q48.
 
 Part of the *[Optimisation and control for nonlinear dynamics]({{< relref "/sessions/session43" >}})* session.
 

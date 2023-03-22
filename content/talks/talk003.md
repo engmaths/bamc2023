@@ -7,7 +7,7 @@ bookToc: false
 
 **Justina Ikudehinbu**
 
-Wednesday at 12:10 PM in 3E11.
+12:10 Wednesday in 3E11.
 
 Part of the *[Applied fluid dynamics]({{< relref "/sessions/session46" >}})* session.
 

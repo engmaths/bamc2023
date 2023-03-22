@@ -7,7 +7,7 @@ bookToc: false
 
 **Bryn Davies**
 
-Tuesday at 3:10 PM in 4Q05.
+15:10 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

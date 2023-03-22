@@ -7,7 +7,7 @@ bookToc: false
 
 **Michael Chappell, Neil D Evans**
 
-Monday at 3:50 PM in 2Q50/51.
+15:50 Monday in 2Q50/51.
 
 Part of the *[Mathematical pharmacology]({{< relref "/sessions/session13" >}})* session.
 

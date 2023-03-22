@@ -7,7 +7,7 @@ bookToc: false
 
 **Leszek Wierzchleyski, Philip Pearce, Helen Wilson**
 
-Wednesday at 11:10 AM in 3Q68.
+11:10 Wednesday in 3Q68.
 
 Part of the *[Blood and blood vessels]({{< relref "/sessions/session48" >}})* session.
 

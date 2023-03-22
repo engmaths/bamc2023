@@ -7,7 +7,7 @@ bookToc: false
 
 **Michael McDougall, Debasish Das, Stephen K Wilson**
 
-Monday at 12:30 PM in 4Q04.
+12:30 Monday in 4Q04.
 
 Part of the *[Droplets and impact]({{< relref "/sessions/session07" >}})* session.
 

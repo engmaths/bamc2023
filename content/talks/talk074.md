@@ -7,7 +7,7 @@ bookToc: false
 
 **Nabil Fadai**
 
-Tuesday at 2:10 PM in 4Q04.
+14:10 Tuesday in 4Q04.
 
 Part of the *[Travelling waves]({{< relref "/sessions/session38" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Cameron Wilcox, Sara Jabbari, Paul A Roberts, Francisco Fernnandez-Trillo**
 
-Tuesday at 3:10 PM in 3Q68.
+15:10 Tuesday in 3Q68.
 
 Part of the *[Biofilms and pattern formation]({{< relref "/sessions/session37" >}})* session.
 

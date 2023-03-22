@@ -7,7 +7,7 @@ bookToc: false
 
 **Michael Hertaeg, Suzanne Fielding, Dapeng Bi**
 
-Monday at 3:10 PM in 2Q48.
+15:10 Monday in 2Q48.
 
 Part of the *[Controlling active matter]({{< relref "/sessions/session12" >}})* session.
 

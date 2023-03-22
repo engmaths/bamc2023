@@ -7,7 +7,7 @@ bookToc: false
 
 **Oleg Kirillov**
 
-Tuesday at 10:50 AM in 2Q42.
+10:50 Tuesday in 2Q42.
 
 Part of the *[Mathematical modelling in sport]({{< relref "/sessions/session21" >}})* session.
 

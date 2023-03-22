@@ -7,7 +7,7 @@ bookToc: false
 
 **Samuel Brevitt, Rainer Klages**
 
-Tuesday at 2:10 PM in 3Q16.
+14:10 Tuesday in 3Q16.
 
 Part of the *[Stochastic processes and random walks]({{< relref "/sessions/session36" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Parna Mandal, Nigel J Mottram, Sean McGinty**
 
-Tuesday at 1:30 PM in 3Q68.
+13:30 Tuesday in 3Q68.
 
 Part of the *[Biofilms and pattern formation]({{< relref "/sessions/session37" >}})* session.
 

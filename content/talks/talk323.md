@@ -7,7 +7,7 @@ bookToc: false
 
 **Ivan Barranco Gomez, Chris Toomer, Karen Aplin, Andrew Lawrie**
 
-Tuesday at 2:10 PM in 4Q07.
+14:10 Tuesday in 4Q07.
 
 Part of the *[Industrial mathematics]({{< relref "/sessions/session39" >}})* session.
 

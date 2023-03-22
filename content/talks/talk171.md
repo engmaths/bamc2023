@@ -7,7 +7,7 @@ bookToc: false
 
 **Davood Shahsavari, Prashant Saxena**
 
-Wednesday at 10:50 AM in 4Q08.
+10:50 Wednesday in 4Q08.
 
 Part of the *[Filaments, membranes, and shells]({{< relref "/sessions/session52" >}})* session.
 

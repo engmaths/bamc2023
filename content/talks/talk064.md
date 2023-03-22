@@ -7,7 +7,7 @@ bookToc: false
 
 **Jennifer Tweedy, Mariia Dvoriashyna, Jessica Crawshaw, Darryl Overby, Rodolfo Repetto, Paul Roberts, Tamsin Spelman, Peter Stewart, Alexander Foss**
 
-Monday at 11:30 AM in 4Q56.
+11:30 Monday in 4Q56.
 
 Part of the *[Physiological flows and transport]({{< relref "/sessions/session11" >}})* session.
 

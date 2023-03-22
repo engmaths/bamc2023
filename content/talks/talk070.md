@@ -7,7 +7,7 @@ bookToc: false
 
 **Sara Bicego, Dante Kalise, Giacomo Albi**
 
-Wednesday at 11:50 AM in 2Q48.
+11:50 Wednesday in 2Q48.
 
 Part of the *[Optimisation and control for nonlinear dynamics]({{< relref "/sessions/session43" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Jeremy Worsfold**
 
-Wednesday at 11:10 AM in 2Q49.
+11:10 Wednesday in 2Q49.
 
 Part of the *[Networks and complex systems in society]({{< relref "/sessions/session44" >}})* session.
 

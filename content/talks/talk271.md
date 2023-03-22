@@ -7,7 +7,7 @@ bookToc: false
 
 **Henry Rodriguez Broadbent, Darren Crowdy**
 
-Wednesday at 12:10 PM in 4Q07.
+12:10 Wednesday in 4Q07.
 
 Part of the *[Granular and multiphase flows]({{< relref "/sessions/session51" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Jake Ahern, Lukasz Chrobok, Hugh Piggins, Alan Champneys**
 
-Wednesday at 11:10 AM in 2Q42.
+11:10 Wednesday in 2Q42.
 
 Part of the *[Mathematical modelling of sleep and circadian rhythms: from molecular mechanisms to policy]({{< relref "/sessions/session42" >}})* session.
 

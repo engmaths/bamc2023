@@ -7,7 +7,7 @@ bookToc: false
 
 **Christopher J Howls, L M Farrell, D H J O'Dell**
 
-Monday at 11:30 AM in 4Q05.
+11:30 Monday in 4Q05.
 
 Part of the *[Acoustics]({{< relref "/sessions/session08" >}})* session.
 

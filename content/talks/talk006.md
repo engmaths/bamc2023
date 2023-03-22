@@ -7,7 +7,7 @@ bookToc: false
 
 **Anna McAllister, Mark McCartney, David Glass**
 
-Monday at 3:10 PM in 3Q16.
+15:10 Monday in 3Q16.
 
 Part of the *[Mathematical ecology]({{< relref "/sessions/session14" >}})* session.
 

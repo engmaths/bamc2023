@@ -7,7 +7,7 @@ bookToc: false
 
 **Johannes Borgqvist, Associate professor Fredrik Ohlsson, Ruth E Baker**
 
-Tuesday at 1:30 PM in 4Q04.
+13:30 Tuesday in 4Q04.
 
 Part of the *[Travelling waves]({{< relref "/sessions/session38" >}})* session.
 

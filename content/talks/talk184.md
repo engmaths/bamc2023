@@ -7,7 +7,7 @@ bookToc: false
 
 **Joao Fontana, Alice B Thompson**
 
-Tuesday at 11:50 AM in 4Q04.
+11:50 Tuesday in 4Q04.
 
 Part of the *[Complex systems and control]({{< relref "/sessions/session28" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Tom S Eaves**
 
-Monday at 11:30 AM in 4Q07.
+11:30 Monday in 4Q07.
 
 Part of the *[Mathematics of energy]({{< relref "/sessions/session09" >}})* session.
 

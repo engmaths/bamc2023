@@ -7,7 +7,7 @@ bookToc: false
 
 **Oliver Paulin, Liam Morrow, Matthew Hennessy, Christopher MacMinn**
 
-Monday at 11:30 AM in 2Q48.
+11:30 Monday in 2Q48.
 
 Part of the *[Mechanics of hydrogels and poroelastic media]({{< relref "/sessions/session02" >}})* session.
 

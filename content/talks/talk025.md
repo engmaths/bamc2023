@@ -7,7 +7,7 @@ bookToc: false
 
 **Ijuptil Joseph Kwajighu, Ijuptil Joseph K, Nigel J Mottram, Katarzyna N Kowal, Joseph R L Cousins**
 
-Tuesday at 10:50 AM in 3E11.
+10:50 Tuesday in 3E11.
 
 Part of the *[Liquid crystals and transport models]({{< relref "/sessions/session25" >}})* session.
 

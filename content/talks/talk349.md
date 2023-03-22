@@ -7,7 +7,7 @@ bookToc: false
 
 **Daniel Catlin**
 
-Wednesday at 11:50 AM in 2Q49.
+11:50 Wednesday in 2Q49.
 
 Part of the *[Networks and complex systems in society]({{< relref "/sessions/session44" >}})* session.
 

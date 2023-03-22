@@ -7,7 +7,7 @@ bookToc: false
 
 **Tatjana Kokina, J N Steer, S A Hasan, F Dias**
 
-Monday at 12:10 PM in 2Q42.
+12:10 Monday in 2Q42.
 
 Part of the *[Advances in water waves and free-surface flows]({{< relref "/sessions/session01" >}})* session.
 

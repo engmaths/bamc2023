@@ -7,7 +7,7 @@ bookToc: false
 
 **Koji Ohkitani**
 
-Monday at 2:10 PM in 4Q04.
+14:10 Monday in 4Q04.
 
 Part of the *[Numerical methods]({{< relref "/sessions/session16" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Henry Kerr**
 
-Tuesday at 12:10 PM in 2Q50/51.
+12:10 Tuesday in 2Q50/51.
 
 Part of the *[Neurodynamics]({{< relref "/sessions/session24" >}})* session.
 

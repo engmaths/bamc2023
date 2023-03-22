@@ -18,34 +18,34 @@ To provide robust and reliable outcomes, we calibrate models with the available 
 
 **Tanja Zerenner, Michael Lawton, Anahita Nodehi, Donald Grosset & the Tracking Parkinson’s team, Michele Hu & the OPDC-Discovery team, Yoav Ben-Shlomo**
 
-Tuesday at 1:30 PM in 2Q50/51.
+13:30 Tuesday in 2Q50/51.
 
 
 ## [The role of large connected components in sexual networks for HIV spreading in Sub-Saharan Africa]({{< relref "/talks/talk247" >}})
 
 **Francesco Di Lauro**
 
-Tuesday at 1:50 PM in 2Q50/51.
+13:50 Tuesday in 2Q50/51.
 
 
 ## [How data-driven, mechanistic modelling is being used to support elimination of African sleeping sickness ]({{< relref "/talks/talk111" >}})
 
 **Kat S Rock**
 
-Tuesday at 2:10 PM in 2Q50/51.
+14:10 Tuesday in 2Q50/51.
 
 
 ## [Combining models to generate consensus nowcasts for the COVID-19 epidemic status in England]({{< relref "/talks/talk290" >}})
 
 **Harrison Manley, Josie Park, Luke Bevan, Alberto Sanchez-Marroquin, Gabriel Danelian, Thomas Bayley, Veronica Bowman, Thomas Maishman, Thomas Finnie, Andre Charlett, Nicholas A Watkins, Johanna Hutchinson, Steven Riley, Jasmina Panovska-Griffiths, Sebastian Funk, Paul Birrell, Daniela De Angelis, Matt Keeling, Lorenzo Pellis, Marc Baguelin, Graeme Ackland, Jonathan Read, Christopher Jewell, Robert Challen**
 
-Tuesday at 2:30 PM in 2Q50/51.
+14:30 Tuesday in 2Q50/51.
 
 
 ## [The observational model: a data-driven parameter estimation technique for dynamical systems]({{< relref "/talks/talk366" >}})
 
 **James Van Yperen, Eduard Campillo-Funollet, Anotida Madzvamuse**
 
-Tuesday at 2:50 PM in 2Q50/51.
+14:50 Tuesday in 2Q50/51.
 
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Lloyd Bridge, Carla White**
 
-Monday at 2:50 PM in 2Q50/51.
+14:50 Monday in 2Q50/51.
 
 Part of the *[Mathematical pharmacology]({{< relref "/sessions/session13" >}})* session.
 

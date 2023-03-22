@@ -7,7 +7,7 @@ bookToc: false
 
 **Harrison Manley, Josie Park, Luke Bevan, Alberto Sanchez-Marroquin, Gabriel Danelian, Thomas Bayley, Veronica Bowman, Thomas Maishman, Thomas Finnie, Andre Charlett, Nicholas A Watkins, Johanna Hutchinson, Steven Riley, Jasmina Panovska-Griffiths, Sebastian Funk, Paul Birrell, Daniela De Angelis, Matt Keeling, Lorenzo Pellis, Marc Baguelin, Graeme Ackland, Jonathan Read, Christopher Jewell, Robert Challen**
 
-Tuesday at 2:30 PM in 2Q50/51.
+14:30 Tuesday in 2Q50/51.
 
 Part of the *[Modelling and inference in public health]({{< relref "/sessions/session35" >}})* session.
 

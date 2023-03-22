@@ -7,7 +7,7 @@ bookToc: false
 
 **Tilly Woods, Ian Hewitt**
 
-Tuesday at 10:50 AM in 2Q49.
+10:50 Tuesday in 2Q49.
 
 Part of the *[IMA Lighthill-Thwaites prize]({{< relref "/sessions/session23" >}})* session.
 

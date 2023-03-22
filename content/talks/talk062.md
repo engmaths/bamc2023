@@ -7,7 +7,7 @@ bookToc: false
 
 **John Moloney**
 
-Monday at 11:50 AM in 4Q07.
+11:50 Monday in 4Q07.
 
 Part of the *[Mathematics of energy]({{< relref "/sessions/session09" >}})* session.
 

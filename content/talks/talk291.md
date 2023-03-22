@@ -7,7 +7,7 @@ bookToc: false
 
 **Emily Smith**
 
-Wednesday at 11:10 AM in 2Q50/51.
+11:10 Wednesday in 2Q50/51.
 
 Part of the *[Epidemiology and statistical learning]({{< relref "/sessions/session45" >}})* session.
 

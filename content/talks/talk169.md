@@ -7,7 +7,7 @@ bookToc: false
 
 **Abhiram Anand Thiruthummal, Sergiy Shelyag, Eun-jin Kim**
 
-Monday at 3:10 PM in 4Q04.
+15:10 Monday in 4Q04.
 
 Part of the *[Numerical methods]({{< relref "/sessions/session16" >}})* session.
 

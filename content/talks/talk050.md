@@ -7,7 +7,7 @@ bookToc: false
 
 **Mohit Dalwadi, Philip Pearce**
 
-Tuesday at 2:10 PM in 3Q68.
+14:10 Tuesday in 3Q68.
 
 Part of the *[Biofilms and pattern formation]({{< relref "/sessions/session37" >}})* session.
 

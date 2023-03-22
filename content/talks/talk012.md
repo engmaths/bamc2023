@@ -7,7 +7,7 @@ bookToc: false
 
 **Yukun Zhou, Daniel Alexander, Pearse Keane**
 
-Monday at 2:30 PM in 4Q56.
+14:30 Monday in 4Q56.
 
 Part of the *[Mathematical and computational ophthalmology]({{< relref "/sessions/session20" >}})* session.
 

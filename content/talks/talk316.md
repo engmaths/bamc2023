@@ -7,7 +7,7 @@ bookToc: false
 
 **Gyula Toth, Andrew Archer, Dmitri Tseluiko, Agnes Bokanyi-Toth**
 
-Tuesday at 11:30 AM in 4Q08.
+11:30 Tuesday in 4Q08.
 
 Part of the *[Thin films and contact lines]({{< relref "/sessions/session31" >}})* session.
 

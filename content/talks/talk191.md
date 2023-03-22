@@ -7,7 +7,7 @@ bookToc: false
 
 **Kraig Wymer-Webb, Mark Blyth, Robert Whittaker**
 
-Monday at 12:50 PM in 4Q04.
+12:50 Monday in 4Q04.
 
 Part of the *[Droplets and impact]({{< relref "/sessions/session07" >}})* session.
 

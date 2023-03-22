@@ -7,7 +7,7 @@ bookToc: false
 
 **Jacob Jepson, John Billingham, Reuben O'Dea, Nabil Fadai**
 
-Monday at 12:30 PM in 2Q49.
+12:30 Monday in 2Q49.
 
 Part of the *[Dynamics of reaction-transport systems]({{< relref "/sessions/session03" >}})* session.
 

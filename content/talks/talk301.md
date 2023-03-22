@@ -7,7 +7,7 @@ bookToc: false
 
 **Edmund Chadwick**
 
-Monday at 12:10 PM in 4Q08.
+12:10 Monday in 4Q08.
 
 Part of the *[Analysis of continuum mechanics]({{< relref "/sessions/session10" >}})* session.
 

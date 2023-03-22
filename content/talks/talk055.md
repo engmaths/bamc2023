@@ -7,7 +7,7 @@ bookToc: false
 
 **Matthew Nethercote, Anastasia Kisil, Raphael Assier**
 
-Monday at 11:10 AM in 4Q05.
+11:10 Monday in 4Q05.
 
 Part of the *[Acoustics]({{< relref "/sessions/session08" >}})* session.
 

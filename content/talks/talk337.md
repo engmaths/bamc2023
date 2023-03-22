@@ -7,7 +7,7 @@ bookToc: false
 
 **Vijay Chandiramani**
 
-Tuesday at 10:50 AM in 4Q04.
+10:50 Tuesday in 4Q04.
 
 Part of the *[Complex systems and control]({{< relref "/sessions/session28" >}})* session.
 

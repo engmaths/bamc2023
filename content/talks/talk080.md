@@ -7,7 +7,7 @@ bookToc: false
 
 **Beth M Stokes, Samuel E Jackson, Philip Garnett, Jingxi Luo**
 
-Tuesday at 11:50 AM in 3Q16.
+11:50 Tuesday in 3Q16.
 
 Part of the *[Collective behaviour and transport]({{< relref "/sessions/session26" >}})* session.
 

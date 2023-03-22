@@ -7,7 +7,7 @@ bookToc: false
 
 **Edwina Yeo, James Oliver, Netanel Korin, Sarah Waters**
 
-Wednesday at 11:50 AM in 3Q68.
+11:50 Wednesday in 3Q68.
 
 Part of the *[Blood and blood vessels]({{< relref "/sessions/session48" >}})* session.
 

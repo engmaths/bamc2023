@@ -7,7 +7,7 @@ bookToc: false
 
 **Gunnar Peng, Ory Schnitzer**
 
-Wednesday at 11:30 AM in 4Q56.
+11:30 Wednesday in 4Q56.
 
 Part of the *[Asymptotics in active matter]({{< relref "/sessions/session53" >}})* session.
 

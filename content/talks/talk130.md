@@ -7,7 +7,7 @@ bookToc: false
 
 **Timothy Peters**
 
-Tuesday at 10:50 AM in 4Q08.
+10:50 Tuesday in 4Q08.
 
 Part of the *[Thin films and contact lines]({{< relref "/sessions/session31" >}})* session.
 

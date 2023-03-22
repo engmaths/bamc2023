@@ -7,7 +7,7 @@ bookToc: false
 
 **Andrew Krause, Benjamin Walker, Adam Townsend**
 
-Monday at 11:10 AM in 2Q49.
+11:10 Monday in 2Q49.
 
 Part of the *[Dynamics of reaction-transport systems]({{< relref "/sessions/session03" >}})* session.
 

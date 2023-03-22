@@ -7,7 +7,7 @@ bookToc: false
 
 **Simon Martina-Perez, Ruth E Baker, Matthew J Simpson**
 
-Monday at 12:30 PM in 3Q16.
+12:30 Monday in 3Q16.
 
 Part of the *[Game theory and agent-based models]({{< relref "/sessions/session05" >}})* session.
 

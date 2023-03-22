@@ -7,7 +7,7 @@ bookToc: false
 
 **Laura Wadkin**
 
-Monday at 2:50 PM in 3Q16.
+14:50 Monday in 3Q16.
 
 Part of the *[Mathematical ecology]({{< relref "/sessions/session14" >}})* session.
 

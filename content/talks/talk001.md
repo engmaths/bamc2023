@@ -7,7 +7,7 @@ bookToc: false
 
 **Vladimir Turetsky, Valery Y Glizer**
 
-Tuesday at 11:10 AM in 4Q04.
+11:10 Tuesday in 4Q04.
 
 Part of the *[Complex systems and control]({{< relref "/sessions/session28" >}})* session.
 

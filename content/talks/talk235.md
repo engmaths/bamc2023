@@ -7,7 +7,7 @@ bookToc: false
 
 **Prabakaran Rajamanickam, Joel Daou, Aiden Kelly**
 
-Monday at 3:10 PM in 4Q08.
+15:10 Monday in 4Q08.
 
 Part of the *[Boundary layer flows and stability]({{< relref "/sessions/session19" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Rebecca Rumney**
 
-Wednesday at 12:10 PM in 2Q50/51.
+12:10 Wednesday in 2Q50/51.
 
 Part of the *[Epidemiology and statistical learning]({{< relref "/sessions/session45" >}})* session.
 

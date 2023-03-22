@@ -7,7 +7,7 @@ bookToc: false
 
 **Fraser Waters, Kit Yates, Jonathan Dawes**
 
-Monday at 12:50 PM in 2Q49.
+12:50 Monday in 2Q49.
 
 Part of the *[Dynamics of reaction-transport systems]({{< relref "/sessions/session03" >}})* session.
 

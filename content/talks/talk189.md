@@ -7,7 +7,7 @@ bookToc: false
 
 **Paul A Roberts**
 
-Monday at 2:10 PM in 4Q56.
+14:10 Monday in 4Q56.
 
 Part of the *[Mathematical and computational ophthalmology]({{< relref "/sessions/session20" >}})* session.
 

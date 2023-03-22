@@ -7,7 +7,7 @@ bookToc: false
 
 **Yue Liu, Philip K Maini, Ruth E Baker**
 
-Wednesday at 10:50 AM in 2Q50/51.
+10:50 Wednesday in 2Q50/51.
 
 Part of the *[Epidemiology and statistical learning]({{< relref "/sessions/session45" >}})* session.
 

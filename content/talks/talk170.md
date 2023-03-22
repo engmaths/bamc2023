@@ -7,7 +7,7 @@ bookToc: false
 
 **Stanislaw W Biber, Alan R Champneys, Robert Szalai**
 
-Tuesday at 11:10 AM in 2Q42.
+11:10 Tuesday in 2Q42.
 
 Part of the *[Mathematical modelling in sport]({{< relref "/sessions/session21" >}})* session.
 

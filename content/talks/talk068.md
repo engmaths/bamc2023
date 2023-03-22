@@ -7,7 +7,7 @@ bookToc: false
 
 **Ping Sheng**
 
-Tuesday at 2:30 PM in 4Q05.
+14:30 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

@@ -17,55 +17,55 @@ The IMA Lighthill-Thwaites prize is a biennial prize established by the IMA in r
 
 **Tilly Woods, Ian Hewitt**
 
-Tuesday at 10:50 AM in 2Q49.
+10:50 Tuesday in 2Q49.
 
 
 ## [Exponential asymptotics for steady capillary ripples on steep gravity waves]({{< relref "/talks/talk142" >}})
 
 **Josh Shelton**
 
-Tuesday at 11:10 AM in 2Q49.
+11:10 Tuesday in 2Q49.
 
 
 ## [On the deformation of an elastic particle under pressure-driven axisymmetric channel flow]({{< relref "/talks/talk330" >}})
 
 **Simon M Finney, Matthew G Hennessy, Andreas Muench, Sarah Waters**
 
-Tuesday at 11:30 AM in 2Q49.
+11:30 Tuesday in 2Q49.
 
 
 ## [Matched asymptotics, conformal capacity, and applications]({{< relref "/talks/talk172" >}})
 
 **Hiroyuki Miyoshi, Darren G Crowdy**
 
-Tuesday at 11:50 AM in 2Q49.
+11:50 Tuesday in 2Q49.
 
 
 ## [Controlling stratification in drying films with diffusiophoresis]({{< relref "/talks/talk227" >}})
 
 **Clare Rees-Zimmerman, Alex Routh**
 
-Tuesday at 12:10 PM in 2Q49.
+12:10 Tuesday in 2Q49.
 
 
 ## [Nonlinear waves in viscous multilayer shear flows in the presence of interfacial slip]({{< relref "/talks/talk140" >}})
 
 **Anna Katsiavria, Demetrios T Papageorgiou**
 
-Tuesday at 1:30 PM in 2Q49.
+13:30 Tuesday in 2Q49.
 
 
 ## [A two-complex-variable approach to the right-angled no-contrast penetrable wedge diffraction problem]({{< relref "/talks/talk343" >}})
 
 **Valentin Kunz, Raphael Assier**
 
-Tuesday at 1:50 PM in 2Q49.
+13:50 Tuesday in 2Q49.
 
 
 ## [Data-driven discovery of PDEs]({{< relref "/talks/talk141" >}})
 
 **Nicolas Boullé, Alex Townsend**
 
-Tuesday at 2:10 PM in 2Q49.
+14:10 Tuesday in 2Q49.
 
 

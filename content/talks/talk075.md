@@ -7,7 +7,7 @@ bookToc: false
 
 **James Junzhe Zhang, David Sibley, Dmitri Tseluiko, Andrew Archer**
 
-Monday at 12:10 PM in 4Q04.
+12:10 Monday in 4Q04.
 
 Part of the *[Droplets and impact]({{< relref "/sessions/session07" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon**
 
-Tuesday at 10:50 AM in 3Q68.
+10:50 Tuesday in 3Q68.
 
 Part of the *[Mathematical medicine]({{< relref "/sessions/session27" >}})* session.
 

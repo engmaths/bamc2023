@@ -7,7 +7,7 @@ bookToc: false
 
 **Stuart Thomson, Jack-William Barotta, Luke Alventosa, Daniel Harris**
 
-Tuesday at 1:50 PM in 2Q48.
+13:50 Tuesday in 2Q48.
 
 Part of the *[Self-propulsion and fluid-body interactions]({{< relref "/sessions/session34" >}})* session.
 

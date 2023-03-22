@@ -7,7 +7,7 @@ bookToc: false
 
 **Valerie J Pinfield**
 
-Tuesday at 2:50 PM in 4Q05.
+14:50 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

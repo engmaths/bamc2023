@@ -7,7 +7,7 @@ bookToc: false
 
 **Hadrien Oliveri, Rijk de Rooij, Ellen Kuhl, Alain Goriely**
 
-Monday at 2:50 PM in 4Q07.
+14:50 Monday in 4Q07.
 
 Part of the *[Neurons and networks]({{< relref "/sessions/session18" >}})* session.
 

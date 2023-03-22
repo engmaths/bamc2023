@@ -7,7 +7,7 @@ bookToc: false
 
 **Jinghao Cao**
 
-Wednesday at 11:30 AM in 4Q05.
+11:30 Wednesday in 4Q05.
 
 Part of the *[Metamaterial modelling and design]({{< relref "/sessions/session50" >}})* session.
 

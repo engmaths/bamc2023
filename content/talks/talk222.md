@@ -7,7 +7,7 @@ bookToc: false
 
 **Tanja Zerenner, Michael Lawton, Anahita Nodehi, Donald Grosset & the Tracking Parkinson’s team, Michele Hu & the OPDC-Discovery team, Yoav Ben-Shlomo**
 
-Tuesday at 1:30 PM in 2Q50/51.
+13:30 Tuesday in 2Q50/51.
 
 Part of the *[Modelling and inference in public health]({{< relref "/sessions/session35" >}})* session.
 

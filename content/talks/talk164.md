@@ -7,7 +7,7 @@ bookToc: false
 
 **Karima Khusnutdinova, Matthew Tranter**
 
-Monday at 11:50 AM in 2Q42.
+11:50 Monday in 2Q42.
 
 Part of the *[Advances in water waves and free-surface flows]({{< relref "/sessions/session01" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Niall Hanevy, Paul Griffiths**
 
-Monday at 2:30 PM in 4Q08.
+14:30 Monday in 4Q08.
 
 Part of the *[Boundary layer flows and stability]({{< relref "/sessions/session19" >}})* session.
 

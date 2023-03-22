@@ -7,7 +7,7 @@ bookToc: false
 
 **Peter Stewart, Ifeanyi Sunday Onah, David MacTaggart**
 
-Monday at 2:50 PM in 4Q56.
+14:50 Monday in 4Q56.
 
 Part of the *[Mathematical and computational ophthalmology]({{< relref "/sessions/session20" >}})* session.
 

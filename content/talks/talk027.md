@@ -7,7 +7,7 @@ bookToc: false
 
 **Prama Putra, Alain Goriely**
 
-Tuesday at 2:10 PM in 4Q56.
+14:10 Tuesday in 4Q56.
 
 Part of the *[New mathematical approaches in the life sciences]({{< relref "/sessions/session41" >}})* session.
 

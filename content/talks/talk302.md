@@ -7,7 +7,7 @@ bookToc: false
 
 **Smita Sahu, Jamie M Foster**
 
-Tuesday at 1:30 PM in 4Q07.
+13:30 Tuesday in 4Q07.
 
 Part of the *[Industrial mathematics]({{< relref "/sessions/session39" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Carles Falcó, Ruth E Baker, José A Carrillo**
 
-Monday at 3:10 PM in 2Q49.
+15:10 Monday in 2Q49.
 
 Part of the *[Dynamics of reaction-transport systems]({{< relref "/sessions/session03" >}})* session.
 

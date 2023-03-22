@@ -7,7 +7,7 @@ bookToc: false
 
 **Mark Broom, Karan Pattni, Jan Rychtar**
 
-Monday at 11:10 AM in 3Q16.
+11:10 Monday in 3Q16.
 
 Part of the *[Game theory and agent-based models]({{< relref "/sessions/session05" >}})* session.
 

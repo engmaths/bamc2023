@@ -7,7 +7,7 @@ bookToc: false
 
 **Andres F Galvis, J M Foster, Bartosz Protas, Stephen J Chapman**
 
-Monday at 11:50 AM in 2Q48.
+11:50 Monday in 2Q48.
 
 Part of the *[Mechanics of hydrogels and poroelastic media]({{< relref "/sessions/session02" >}})* session.
 

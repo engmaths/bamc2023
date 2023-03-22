@@ -19,41 +19,41 @@ In this minisymposium, we will focus on how asymptotic methods can be used to ex
 
 **Mohit Dalwadi, Clément Moreau, Eamonn Gaffney, Benjamin Walker, Kenta Ishimoto**
 
-Wednesday at 10:30 AM in 4Q56.
+10:30 Wednesday in 4Q56.
 
 
 ## [Modelling the transport of active particles in a dilute suspension]({{< relref "/talks/talk020" >}})
 
 **Lloyd Fung, R N Bearon, Y Hwang**
 
-Wednesday at 10:50 AM in 4Q56.
+10:50 Wednesday in 4Q56.
 
 
 ## [Stability in an active exclusion process]({{< relref "/talks/talk277" >}})
 
 **James Mason, Maria Bruna, Rob L Jack, Clement Erignoux**
 
-Wednesday at 11:10 AM in 4Q56.
+11:10 Wednesday in 4Q56.
 
 
 ## [Weakly nonlinear dynamics of self-propelling active particles]({{< relref "/talks/talk245" >}})
 
 **Gunnar Peng, Ory Schnitzer**
 
-Wednesday at 11:30 AM in 4Q56.
+11:30 Wednesday in 4Q56.
 
 
 ## [Motility-Induced Phase Separation in Signalling Bacteria]({{< relref "/talks/talk218" >}})
 
 **Wesley Ridgway**
 
-Wednesday at 11:50 AM in 4Q56.
+11:50 Wednesday in 4Q56.
 
 
 ## [Beyond Slender-body theory ]({{< relref "/talks/talk014" >}})
 
 **Lyndon Koens**
 
-Wednesday at 12:10 PM in 4Q56.
+12:10 Wednesday in 4Q56.
 
 

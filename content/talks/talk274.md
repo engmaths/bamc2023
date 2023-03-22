@@ -7,7 +7,7 @@ bookToc: false
 
 **Miles Wheeler, Robin Ming Chen, Samuel Walsh**
 
-Monday at 12:30 PM in 2Q42.
+12:30 Monday in 2Q42.
 
 Part of the *[Advances in water waves and free-surface flows]({{< relref "/sessions/session01" >}})* session.
 

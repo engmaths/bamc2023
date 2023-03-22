@@ -7,7 +7,7 @@ bookToc: false
 
 **Elsen Tjhung**
 
-Monday at 2:50 PM in 2Q48.
+14:50 Monday in 2Q48.
 
 Part of the *[Controlling active matter]({{< relref "/sessions/session12" >}})* session.
 

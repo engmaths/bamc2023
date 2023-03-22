@@ -7,7 +7,7 @@ bookToc: false
 
 **Vaclav Klika, Eamonn A Gaffney, Philip K Maini**
 
-Tuesday at 1:50 PM in 4Q04.
+13:50 Tuesday in 4Q04.
 
 Part of the *[Travelling waves]({{< relref "/sessions/session38" >}})* session.
 

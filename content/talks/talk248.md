@@ -7,7 +7,7 @@ bookToc: false
 
 **Lauren Holmes, Andy Harland**
 
-Tuesday at 12:10 PM in 2Q42.
+12:10 Tuesday in 2Q42.
 
 Part of the *[Mathematical modelling in sport]({{< relref "/sessions/session21" >}})* session.
 

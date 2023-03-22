@@ -7,7 +7,7 @@ bookToc: false
 
 **Benjamin Vial**
 
-Monday at 3:30 PM in 4Q04.
+15:30 Monday in 4Q04.
 
 Part of the *[Numerical methods]({{< relref "/sessions/session16" >}})* session.
 

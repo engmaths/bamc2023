@@ -7,7 +7,7 @@ bookToc: false
 
 **Henry Putley, Sebastien Guenneau, Richard Craster**
 
-Wednesday at 11:50 AM in 4Q05.
+11:50 Wednesday in 4Q05.
 
 Part of the *[Metamaterial modelling and design]({{< relref "/sessions/session50" >}})* session.
 

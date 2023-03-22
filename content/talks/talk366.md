@@ -7,7 +7,7 @@ bookToc: false
 
 **James Van Yperen, Eduard Campillo-Funollet, Anotida Madzvamuse**
 
-Tuesday at 2:50 PM in 2Q50/51.
+14:50 Tuesday in 2Q50/51.
 
 Part of the *[Modelling and inference in public health]({{< relref "/sessions/session35" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Matthew Leak**
 
-Wednesday at 10:50 AM in 2Q42.
+10:50 Wednesday in 2Q42.
 
 Part of the *[Mathematical modelling of sleep and circadian rhythms: from molecular mechanisms to policy]({{< relref "/sessions/session42" >}})* session.
 

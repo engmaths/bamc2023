@@ -7,7 +7,7 @@ bookToc: false
 
 **Jennifer Power**
 
-Tuesday at 11:10 AM in 3Q68.
+11:10 Tuesday in 3Q68.
 
 Part of the *[Mathematical medicine]({{< relref "/sessions/session27" >}})* session.
 

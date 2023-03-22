@@ -7,7 +7,7 @@ bookToc: false
 
 **Michael Meylan**
 
-Tuesday at 12:10 PM in 4Q05.
+12:10 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

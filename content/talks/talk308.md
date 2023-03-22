@@ -7,7 +7,7 @@ bookToc: false
 
 **Robert J Whittaker, Jordan Kent**
 
-Tuesday at 2:30 PM in 4Q07.
+14:30 Tuesday in 4Q07.
 
 Part of the *[Industrial mathematics]({{< relref "/sessions/session39" >}})* session.
 

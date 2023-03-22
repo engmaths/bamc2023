@@ -7,7 +7,7 @@ bookToc: false
 
 **Abhishek Upadhyay, Jamila Rowland-Chandler, Gabriela Pingarron-Cardenas, Alex Webb, James Locke**
 
-Wednesday at 10:30 AM in 2Q42.
+10:30 Wednesday in 2Q42.
 
 Part of the *[Mathematical modelling of sleep and circadian rhythms: from molecular mechanisms to policy]({{< relref "/sessions/session42" >}})* session.
 

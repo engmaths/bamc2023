@@ -7,7 +7,7 @@ bookToc: false
 
 **Cameron A Smith, Ben Ashby**
 
-Monday at 3:30 PM in 3Q16.
+15:30 Monday in 3Q16.
 
 Part of the *[Mathematical ecology]({{< relref "/sessions/session14" >}})* session.
 

@@ -17,41 +17,41 @@ Active matter refers to collections of living or synthetic constituents that tur
 
 **Alexander Mietke, T H Tan, J Li, Y Chen, H Higinbotham, P J Foster, S Gokhale, J Dunkel, N Fakhri**
 
-Monday at 2:10 PM in 2Q48.
+14:10 Monday in 2Q48.
 
 
 ## [Conditions for hydrodynamic coordination in arrays of model cilia]({{< relref "/talks/talk079" >}})
 
 **Rachel Bennett, Fanlong Meng, Nariya Uchida, Ramin Golestanian**
 
-Monday at 2:30 PM in 2Q48.
+14:30 Monday in 2Q48.
 
 
 ## [Is the tendency for all living systems to do work universal?]({{< relref "/talks/talk084" >}})
 
 **Elsen Tjhung**
 
-Monday at 2:50 PM in 2Q48.
+14:50 Monday in 2Q48.
 
 
 ## [Shear thickening and Yielding Transitions in Biological Tissues]({{< relref "/talks/talk239" >}})
 
 **Michael Hertaeg, Suzanne Fielding, Dapeng Bi**
 
-Monday at 3:10 PM in 2Q48.
+15:10 Monday in 2Q48.
 
 
 ## [Active elastocapillarity in soft solids with negative surface tension]({{< relref "/talks/talk242" >}})
 
 **Jack Binysh, Thomas R Wilks, Anton Souslov**
 
-Monday at 3:30 PM in 2Q48.
+15:30 Monday in 2Q48.
 
 
 ## [Large deviations and optimal control in active fluids]({{< relref "/talks/talk269" >}})
 
 **Robert Jack**
 
-Monday at 3:50 PM in 2Q48.
+15:50 Monday in 2Q48.
 
 

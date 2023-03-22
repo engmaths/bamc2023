@@ -7,7 +7,7 @@ bookToc: false
 
 **Diogo L Pires, Erovenko, Igor V, Broom, Mark**
 
-Monday at 12:10 PM in 3Q16.
+12:10 Monday in 3Q16.
 
 Part of the *[Game theory and agent-based models]({{< relref "/sessions/session05" >}})* session.
 

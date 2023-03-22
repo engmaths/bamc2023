@@ -7,7 +7,7 @@ bookToc: false
 
 **Robert Allen**
 
-Tuesday at 10:50 AM in 2Q50/51.
+10:50 Tuesday in 2Q50/51.
 
 Part of the *[Neurodynamics]({{< relref "/sessions/session24" >}})* session.
 

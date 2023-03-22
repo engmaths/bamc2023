@@ -7,7 +7,7 @@ bookToc: false
 
 **Sebastien Guenneau, Elena Cherkaev, Niklas Wellander, Frederic Zolla**
 
-Wednesday at 10:30 AM in 4Q05.
+10:30 Wednesday in 4Q05.
 
 Part of the *[Metamaterial modelling and design]({{< relref "/sessions/session50" >}})* session.
 

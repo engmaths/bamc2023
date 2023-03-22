@@ -7,7 +7,7 @@ bookToc: false
 
 **Giulia Celora, Hugh Ford, Mohit Dalwadi, Benjamin Walker, Jonathan Chubb, Philip Pearce**
 
-Monday at 3:50 PM in 2Q49.
+15:50 Monday in 2Q49.
 
 Part of the *[Dynamics of reaction-transport systems]({{< relref "/sessions/session03" >}})* session.
 

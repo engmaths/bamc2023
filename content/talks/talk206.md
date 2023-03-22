@@ -7,7 +7,7 @@ bookToc: false
 
 **Andrea Giusti, Mario di Bernardo, Thomas E Gorochowski**
 
-Tuesday at 0.506944444 in 3Q16.
+12:10 Tuesday in 3Q16.
 
 Part of the *[Collective behaviour and transport]({{< relref "/sessions/session26" >}})* session.
 

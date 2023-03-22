@@ -7,7 +7,7 @@ bookToc: false
 
 **Alexander Mietke, T H Tan, J Li, Y Chen, H Higinbotham, P J Foster, S Gokhale, J Dunkel, N Fakhri**
 
-Monday at 2:10 PM in 2Q48.
+14:10 Monday in 2Q48.
 
 Part of the *[Controlling active matter]({{< relref "/sessions/session12" >}})* session.
 

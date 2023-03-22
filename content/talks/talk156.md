@@ -7,7 +7,7 @@ bookToc: false
 
 **Remi Hernandez**
 
-Monday at 3:30 PM in 4Q56.
+15:30 Monday in 4Q56.
 
 Part of the *[Mathematical and computational ophthalmology]({{< relref "/sessions/session20" >}})* session.
 

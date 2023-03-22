@@ -7,7 +7,7 @@ bookToc: false
 
 **Stephen K Wilson, Hannah-May D'Ambrosio, Alexander W Wray, Brian R Duffy**
 
-Wednesday at 10:50 AM in 3Q16.
+10:50 Wednesday in 3Q16.
 
 Part of the *[Evaporation]({{< relref "/sessions/session47" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Jessica E Forsyth, James Casey, Tom Shearer, Simon Cotter**
 
-Monday at 3:30 PM in 3Q68.
+15:30 Monday in 3Q68.
 
 Part of the *[Cell and tissue mechanics]({{< relref "/sessions/session15" >}})* session.
 

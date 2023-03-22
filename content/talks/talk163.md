@@ -7,7 +7,7 @@ bookToc: false
 
 **Ryan Palmer, Isaac V Chenchiah, Daniel Robert**
 
-Tuesday at 1:30 PM in 4Q56.
+13:30 Tuesday in 4Q56.
 
 Part of the *[New mathematical approaches in the life sciences]({{< relref "/sessions/session41" >}})* session.
 

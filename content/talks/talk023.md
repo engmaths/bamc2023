@@ -7,7 +7,7 @@ bookToc: false
 
 **Sara Ahmad Almammary, Zahir Hussain, Christian Thomas.**
 
-Monday at 2:10 PM in 4Q08.
+14:10 Monday in 4Q08.
 
 Part of the *[Boundary layer flows and stability]({{< relref "/sessions/session19" >}})* session.
 

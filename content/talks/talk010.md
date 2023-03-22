@@ -7,7 +7,7 @@ bookToc: false
 
 **Daniel Booth, Ian Griffiths, Peter Howell**
 
-Tuesday at 2:30 PM in 4Q08.
+14:30 Tuesday in 4Q08.
 
 Part of the *[Microfluidics and flow in porous media]({{< relref "/sessions/session40" >}})* session.
 

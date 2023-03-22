@@ -7,7 +7,7 @@ bookToc: false
 
 **Layla Sadeghi Namaghi**
 
-Monday at 3:50 PM in 4Q04.
+15:50 Monday in 4Q04.
 
 Part of the *[Numerical methods]({{< relref "/sessions/session16" >}})* session.
 

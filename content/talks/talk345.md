@@ -7,7 +7,7 @@ bookToc: false
 
 **Ciarán Fisher**
 
-Monday at 2:10 PM in 2Q50/51.
+14:10 Monday in 2Q50/51.
 
 Part of the *[Mathematical pharmacology]({{< relref "/sessions/session13" >}})* session.
 

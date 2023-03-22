@@ -7,7 +7,7 @@ bookToc: false
 
 **Kieran Boniface**
 
-Monday at 2:10 PM in 3Q68.
+14:10 Monday in 3Q68.
 
 Part of the *[Cell and tissue mechanics]({{< relref "/sessions/session15" >}})* session.
 

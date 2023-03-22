@@ -7,7 +7,7 @@ bookToc: false
 
 **Christoffer Gretarsson Alexandersen, Alain Goriely, Christian Bick, Willem de Haan**
 
-Tuesday at 10:30 AM in 2Q50/51.
+10:30 Tuesday in 2Q50/51.
 
 Part of the *[Neurodynamics]({{< relref "/sessions/session24" >}})* session.
 

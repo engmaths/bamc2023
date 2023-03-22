@@ -7,7 +7,7 @@ bookToc: false
 
 **Eric Hall, Karen Meyer**
 
-Tuesday at 11:50 AM in 4Q07.
+11:50 Tuesday in 4Q07.
 
 Part of the *[Geophysics and climate]({{< relref "/sessions/session30" >}})* session.
 

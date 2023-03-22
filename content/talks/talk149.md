@@ -7,7 +7,7 @@ bookToc: false
 
 **Jemima Tabeart, John W Pearson, Selime Gürol, Anthony Weaver**
 
-Tuesday at 11:30 AM in 2Q48.
+11:30 Tuesday in 2Q48.
 
 Part of the *[Advances in applied numerical linear algebra and its applications]({{< relref "/sessions/session22" >}})* session.
 

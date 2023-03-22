@@ -7,7 +7,7 @@ bookToc: false
 
 **Reem Almarashi, Jonathan Wattis, Rachel Nicks**
 
-Wednesday at 11:30 AM in 4Q04.
+11:30 Wednesday in 4Q04.
 
 Part of the *[Nonlinear dynamics and applications]({{< relref "/sessions/session49" >}})* session.
 

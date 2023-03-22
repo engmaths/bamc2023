@@ -7,7 +7,7 @@ bookToc: false
 
 **Peter Castellucci, Igor Chernyavsky, Oliver Jensen, Radha Boya, Lin Ma**
 
-Tuesday at 11:10 AM in 3E11.
+11:10 Tuesday in 3E11.
 
 Part of the *[Liquid crystals and transport models]({{< relref "/sessions/session25" >}})* session.
 

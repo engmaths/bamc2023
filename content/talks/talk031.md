@@ -7,7 +7,7 @@ bookToc: false
 
 **Sairam Pamulaparthi Venkata, Giuseppe Zurlo, Michel Destrade, Valentina Balbi, Dino Accoto**
 
-Wednesday at 12:10 PM in 4Q08.
+12:10 Wednesday in 4Q08.
 
 Part of the *[Filaments, membranes, and shells]({{< relref "/sessions/session52" >}})* session.
 

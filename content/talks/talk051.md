@@ -7,7 +7,7 @@ bookToc: false
 
 **Sonia Dari**
 
-Tuesday at 12:10 PM in 3Q68.
+12:10 Tuesday in 3Q68.
 
 Part of the *[Mathematical medicine]({{< relref "/sessions/session27" >}})* session.
 

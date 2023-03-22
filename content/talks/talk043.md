@@ -7,7 +7,7 @@ bookToc: false
 
 **Rebecca Crossley, Philip K Maini, Tommaso Lorenzi, Ruth E Baker**
 
-Tuesday at 3:10 PM in 4Q04.
+15:10 Tuesday in 4Q04.
 
 Part of the *[Travelling waves]({{< relref "/sessions/session38" >}})* session.
 

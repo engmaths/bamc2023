@@ -7,7 +7,7 @@ bookToc: false
 
 **Kevin Moroney, Michael Vynnycky**
 
-Tuesday at 10:30 AM in 3Q68.
+10:30 Tuesday in 3Q68.
 
 Part of the *[Mathematical medicine]({{< relref "/sessions/session27" >}})* session.
 

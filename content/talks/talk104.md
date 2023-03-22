@@ -7,7 +7,7 @@ bookToc: false
 
 **David Craig, Stephen Wilson, Alexander Wray**
 
-Wednesday at 11:10 AM in 3Q16.
+11:10 Wednesday in 3Q16.
 
 Part of the *[Evaporation]({{< relref "/sessions/session47" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Hiroyuki Miyoshi, Darren G Crowdy**
 
-Tuesday at 11:50 AM in 2Q49.
+11:50 Tuesday in 2Q49.
 
 Part of the *[IMA Lighthill-Thwaites prize]({{< relref "/sessions/session23" >}})* session.
 

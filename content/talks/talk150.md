@@ -7,7 +7,7 @@ bookToc: false
 
 **Alexander Erlich, Pierre Recho**
 
-Tuesday at 12:10 PM in 4Q56.
+12:10 Tuesday in 4Q56.
 
 Part of the *[Chemo-mechanical couplings in growing tissues]({{< relref "/sessions/session32" >}})* session.
 

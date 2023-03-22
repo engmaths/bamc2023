@@ -7,7 +7,7 @@ bookToc: false
 
 **Emiliano Renzi, Marco Mazza**
 
-Tuesday at 12:10 PM in 4Q07.
+12:10 Tuesday in 4Q07.
 
 Part of the *[Geophysics and climate]({{< relref "/sessions/session30" >}})* session.
 

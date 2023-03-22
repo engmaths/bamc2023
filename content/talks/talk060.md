@@ -7,7 +7,7 @@ bookToc: false
 
 **Wasaif Alruwaele**
 
-Tuesday at 1:50 PM in 4Q08.
+13:50 Tuesday in 4Q08.
 
 Part of the *[Microfluidics and flow in porous media]({{< relref "/sessions/session40" >}})* session.
 

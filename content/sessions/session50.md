@@ -17,34 +17,34 @@ This session is organised by the UK Metamaterials Network, to showcase the mathe
 
 **Sebastien Guenneau, Elena Cherkaev, Niklas Wellander, Frederic Zolla**
 
-Wednesday at 10:30 AM in 4Q05.
+10:30 Wednesday in 4Q05.
 
 
 ## [The inverse design of disordered metamaterials using the coupled dipole framework]({{< relref "/talks/talk085" >}})
 
 **James Capers**
 
-Wednesday at 11:10 AM in 4Q05.
+11:10 Wednesday in 4Q05.
 
 
 ## [Wave interaction with subwavelength resonators]({{< relref "/talks/talk154" >}})
 
 **Jinghao Cao**
 
-Wednesday at 11:30 AM in 4Q05.
+11:30 Wednesday in 4Q05.
 
 
 ## [A Photonic Crystal of Metacylinder Inclusions ]({{< relref "/talks/talk355" >}})
 
 **Henry Putley, Sebastien Guenneau, Richard Craster**
 
-Wednesday at 11:50 AM in 4Q05.
+11:50 Wednesday in 4Q05.
 
 
 ## [Failure by design of confined architected interfaces]({{< relref "/talks/talk124" >}})
 
 **Adrianos E F Athanasiadis, Michal K Budzik, Dilum N Fernando, Marcelo A Dias**
 
-Wednesday at 12:10 PM in 4Q05.
+12:10 Wednesday in 4Q05.
 
 

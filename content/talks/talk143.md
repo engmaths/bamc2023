@@ -7,7 +7,7 @@ bookToc: false
 
 **You-Wei Ho, Edward James Brambley**
 
-Monday at 12:10 PM in 4Q05.
+12:10 Monday in 4Q05.
 
 Part of the *[Acoustics]({{< relref "/sessions/session08" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Valentin Kunz, Raphael Assier**
 
-Tuesday at 1:50 PM in 2Q49.
+13:50 Tuesday in 2Q49.
 
 Part of the *[IMA Lighthill-Thwaites prize]({{< relref "/sessions/session23" >}})* session.
 

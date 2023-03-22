@@ -7,7 +7,7 @@ bookToc: false
 
 **Simon M Finney, Matthew G Hennessy, Andreas Muench, Sarah Waters**
 
-Tuesday at 11:30 AM in 2Q49.
+11:30 Tuesday in 2Q49.
 
 Part of the *[IMA Lighthill-Thwaites prize]({{< relref "/sessions/session23" >}})* session.
 

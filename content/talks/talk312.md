@@ -7,7 +7,7 @@ bookToc: false
 
 **Edoardo Pasca, Evelina Ametova, Gemma Fardell, Jakob Sauer Jørgensen, Laura Murgatroyd, Evangelos Papoutsellis**
 
-Tuesday at 11:50 AM in 2Q48.
+11:50 Tuesday in 2Q48.
 
 Part of the *[Advances in applied numerical linear algebra and its applications]({{< relref "/sessions/session22" >}})* session.
 

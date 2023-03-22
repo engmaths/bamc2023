@@ -7,7 +7,7 @@ bookToc: false
 
 **Josselin Garnier, Liliana Borcea, Alexander Mamonov, Jorn Zimmerling**
 
-Tuesday at 1:30 PM in 4Q05.
+13:30 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

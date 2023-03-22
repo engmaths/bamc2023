@@ -7,7 +7,7 @@ bookToc: false
 
 **Gianluca Audone, Matthew Nunes, Philippe Blondel, Chris Budd, Peter Harris, Stephen Robinson**
 
-Monday at 12:30 PM in 4Q05.
+12:30 Monday in 4Q05.
 
 Part of the *[Acoustics]({{< relref "/sessions/session08" >}})* session.
 

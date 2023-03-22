@@ -7,7 +7,7 @@ bookToc: false
 
 **James Mason, Maria Bruna, Rob L Jack, Clement Erignoux**
 
-Wednesday at 11:10 AM in 4Q56.
+11:10 Wednesday in 4Q56.
 
 Part of the *[Asymptotics in active matter]({{< relref "/sessions/session53" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Jack Binysh, Thomas R Wilks, Anton Souslov**
 
-Monday at 3:30 PM in 2Q48.
+15:30 Monday in 2Q48.
 
 Part of the *[Controlling active matter]({{< relref "/sessions/session12" >}})* session.
 

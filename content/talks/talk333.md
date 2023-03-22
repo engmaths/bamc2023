@@ -7,7 +7,7 @@ bookToc: false
 
 **David Rand**
 
-Wednesday at 11:30 AM in 2Q42.
+11:30 Wednesday in 2Q42.
 
 Part of the *[Mathematical modelling of sleep and circadian rhythms: from molecular mechanisms to policy]({{< relref "/sessions/session42" >}})* session.
 

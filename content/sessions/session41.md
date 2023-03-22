@@ -20,41 +20,41 @@ In addressing these problems, the speakers will highlight ideas from applied mat
 
 **Ryan Palmer, Isaac V Chenchiah, Daniel Robert**
 
-Tuesday at 1:30 PM in 4Q56.
+13:30 Tuesday in 4Q56.
 
 
 ## [Extended Pair Correlation Functions for Multiplex Medical Imaging]({{< relref "/talks/talk182" >}})
 
 **Joshua A Bull, Helen M Byrne**
 
-Tuesday at 1:50 PM in 4Q56.
+13:50 Tuesday in 4Q56.
 
 
 ## [Mathematics, the Mind and Alzheimer's disease: Systematical progression on brain graphs]({{< relref "/talks/talk027" >}})
 
 **Prama Putra, Alain Goriely**
 
-Tuesday at 2:10 PM in 4Q56.
+14:10 Tuesday in 4Q56.
 
 
 ## [Field Theories of Branching in Cell Populations, Epidemiology and Neuronal Signals]({{< relref "/talks/talk320" >}})
 
 **Johannes Pausch**
 
-Tuesday at 2:30 PM in 4Q56.
+14:30 Tuesday in 4Q56.
 
 
 ## [Viral geometry as a key to understanding viral infections]({{< relref "/talks/talk347" >}})
 
 **Reidun Twarock**
 
-Tuesday at 2:50 PM in 4Q56.
+14:50 Tuesday in 4Q56.
 
 
 ## [Mathematical and deep learning analysis of wound healing in flies]({{< relref "/talks/talk365" >}})
 
 **Jake Turley, I V Chenchiah, T B Liverpool, H Weavers, P Martin**
 
-Tuesday at 3:10 PM in 4Q56.
+15:10 Tuesday in 4Q56.
 
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Johannes Pausch**
 
-Tuesday at 2:30 PM in 4Q56.
+14:30 Tuesday in 4Q56.
 
 Part of the *[New mathematical approaches in the life sciences]({{< relref "/sessions/session41" >}})* session.
 

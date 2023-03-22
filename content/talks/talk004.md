@@ -7,7 +7,7 @@ bookToc: false
 
 **Alessio Kandiah, Ian S Jones, Natasha V Movchan, Alexander B Movchan**
 
-Tuesday at 11:50 AM in 4Q05.
+11:50 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

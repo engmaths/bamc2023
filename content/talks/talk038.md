@@ -7,7 +7,7 @@ bookToc: false
 
 **W Duncan Martinson, Carles Falco, Marta Pereira, Amanda Sierra, Jose Carrillo**
 
-Monday at 3:10 PM in 4Q07.
+15:10 Monday in 4Q07.
 
 Part of the *[Neurons and networks]({{< relref "/sessions/session18" >}})* session.
 

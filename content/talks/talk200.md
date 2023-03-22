@@ -7,7 +7,7 @@ bookToc: false
 
 **Aiden Kelly, Joel Daou, Julien Landel**
 
-Monday at 3:30 PM in 4Q08.
+15:30 Monday in 4Q08.
 
 Part of the *[Boundary layer flows and stability]({{< relref "/sessions/session19" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Matthew Turner**
 
-Wednesday at 10:30 AM in 3E11.
+10:30 Wednesday in 3E11.
 
 Part of the *[Applied fluid dynamics]({{< relref "/sessions/session46" >}})* session.
 

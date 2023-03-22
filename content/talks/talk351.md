@@ -7,7 +7,7 @@ bookToc: false
 
 **Leah Keating**
 
-Wednesday at 12:10 PM in 2Q49.
+12:10 Wednesday in 2Q49.
 
 Part of the *[Networks and complex systems in society]({{< relref "/sessions/session44" >}})* session.
 

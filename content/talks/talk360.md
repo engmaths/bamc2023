@@ -7,7 +7,7 @@ bookToc: false
 
 **Edwin Van Leeuwen**
 
-Monday at 11:30 AM in 2Q50/51.
+11:30 Monday in 2Q50/51.
 
 Part of the *[How to be better prepared for a future pandemic: lessons learned from COVID-19, mpox and the four historic influenza pandemics]({{< relref "/sessions/session04" >}})* session.
 

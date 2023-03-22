@@ -7,7 +7,7 @@ bookToc: false
 
 **Marie Touboul, R Assier, R Craster, S Guenneau, B Vial**
 
-Tuesday at 11:10 AM in 4Q05.
+11:10 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

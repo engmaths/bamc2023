@@ -7,7 +7,7 @@ bookToc: false
 
 **Sheeru Shamsi, Julius Kaplunov, Ludmila Prikazchikova**
 
-Tuesday at 2:30 PM in 2Q48.
+14:30 Tuesday in 2Q48.
 
 Part of the *[Self-propulsion and fluid-body interactions]({{< relref "/sessions/session34" >}})* session.
 

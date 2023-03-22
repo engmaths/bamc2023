@@ -7,7 +7,7 @@ bookToc: false
 
 **Zonglun Li, Alexey Zaikin, Oleg Blyuss**
 
-Wednesday at 11:30 AM in 2Q50/51.
+11:30 Wednesday in 2Q50/51.
 
 Part of the *[Epidemiology and statistical learning]({{< relref "/sessions/session45" >}})* session.
 

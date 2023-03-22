@@ -7,7 +7,7 @@ bookToc: false
 
 **Jake Turley, I V Chenchiah, T B Liverpool, H Weavers, P Martin**
 
-Tuesday at 3:10 PM in 4Q56.
+15:10 Tuesday in 4Q56.
 
 Part of the *[New mathematical approaches in the life sciences]({{< relref "/sessions/session41" >}})* session.
 

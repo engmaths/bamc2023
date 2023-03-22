@@ -7,7 +7,7 @@ bookToc: false
 
 **Paul Martin**
 
-Tuesday at 10:30 AM in 4Q05.
+10:30 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

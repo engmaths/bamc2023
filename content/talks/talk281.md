@@ -7,7 +7,7 @@ bookToc: false
 
 **Gareth Jenkins, Helen Wilson, Ruth Morgan**
 
-Wednesday at 11:30 AM in 4Q07.
+11:30 Wednesday in 4Q07.
 
 Part of the *[Granular and multiphase flows]({{< relref "/sessions/session51" >}})* session.
 

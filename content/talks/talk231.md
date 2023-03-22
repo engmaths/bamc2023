@@ -7,7 +7,7 @@ bookToc: false
 
 **Nerijus Sidorovas, Karima Khusnutdinova, Dmitri Tseluiko, Wooyoung Choi**
 
-Monday at 12:50 PM in 4Q05.
+12:50 Monday in 4Q05.
 
 Part of the *[Acoustics]({{< relref "/sessions/session08" >}})* session.
 

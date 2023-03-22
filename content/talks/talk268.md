@@ -7,7 +7,7 @@ bookToc: false
 
 **Jason Ferguson**
 
-Monday at 2:50 PM in 4Q08.
+14:50 Monday in 4Q08.
 
 Part of the *[Boundary layer flows and stability]({{< relref "/sessions/session19" >}})* session.
 

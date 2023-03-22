@@ -7,7 +7,7 @@ bookToc: false
 
 **Joshua A Bull, Helen M Byrne**
 
-Tuesday at 1:50 PM in 4Q56.
+13:50 Tuesday in 4Q56.
 
 Part of the *[New mathematical approaches in the life sciences]({{< relref "/sessions/session41" >}})* session.
 

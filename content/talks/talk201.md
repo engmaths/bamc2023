@@ -7,7 +7,7 @@ bookToc: false
 
 **Daniel Marris**
 
-Tuesday at 1:30 PM in 3Q16.
+13:30 Tuesday in 3Q16.
 
 Part of the *[Stochastic processes and random walks]({{< relref "/sessions/session36" >}})* session.
 

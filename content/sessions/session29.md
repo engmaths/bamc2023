@@ -19,76 +19,76 @@ A large part of the global community that is working on multiple wave scattering
 
 **Paul Martin**
 
-Tuesday at 10:30 AM in 4Q05.
+10:30 Tuesday in 4Q05.
 
 
 ## [High-frequency homogenization for dispersive materials of the Lorentz type]({{< relref "/talks/talk129" >}})
 
 **Marie Touboul, R Assier, R Craster, S Guenneau, B Vial**
 
-Tuesday at 11:10 AM in 4Q05.
+11:10 Tuesday in 4Q05.
 
 
 ## [Diffraction by a finite barrier/crack on a square lattice: an iterative Wiener-Hopf method approach]({{< relref "/talks/talk056" >}})
 
 **Elena Medvedeva, Anastasia Kisil, Raphael Assier**
 
-Tuesday at 11:30 AM in 4Q05.
+11:30 Tuesday in 4Q05.
 
 
 ## [Effects of gravity and dispersive waves in chiral elastic systems]({{< relref "/talks/talk004" >}})
 
 **Alessio Kandiah, Ian S Jones, Natasha V Movchan, Alexander B Movchan**
 
-Tuesday at 11:50 AM in 4Q05.
+11:50 Tuesday in 4Q05.
 
 
 ## [Time-dependent problems in Wave Scattering]({{< relref "/talks/talk340" >}})
 
 **Michael Meylan**
 
-Tuesday at 12:10 PM in 4Q05.
+12:10 Tuesday in 4Q05.
 
 
 ## [Full Waveform Inversion via Reduced Order Modeling]({{< relref "/talks/talk209" >}})
 
 **Josselin Garnier, Liliana Borcea, Alexander Mamonov, Jorn Zimmerling**
 
-Tuesday at 1:30 PM in 4Q05.
+13:30 Tuesday in 4Q05.
 
 
 ## [Wave Scattering from Layers of Random Particulate Materials]({{< relref "/talks/talk092" >}})
 
 **Paulo Sergio Piva, Kevish K Napal, Artur L Gower**
 
-Tuesday at 1:50 PM in 4Q05.
+13:50 Tuesday in 4Q05.
 
 
 ## [Using elastic waves to predict forces in thick-walled cylinder with application to roller-bearings]({{< relref "/talks/talk047" >}})
 
 **Jessica Jordan Kent, Artur Lewis Gower**
 
-Tuesday at 2:10 PM in 4Q05.
+14:10 Tuesday in 4Q05.
 
 
 ## [Causality Constraint as a Design Tool for Sound Absorption Metastructures]({{< relref "/talks/talk068" >}})
 
 **Ping Sheng**
 
-Tuesday at 2:30 PM in 4Q05.
+14:30 Tuesday in 4Q05.
 
 
 ## [Multiple wave scattering in soft complex media]({{< relref "/talks/talk207" >}})
 
 **Valerie J Pinfield**
 
-Tuesday at 2:50 PM in 4Q05.
+14:50 Tuesday in 4Q05.
 
 
 ## [Spectral convergence of defect modes in large finite resonator arrays]({{< relref "/talks/talk100" >}})
 
 **Bryn Davies**
 
-Tuesday at 3:10 PM in 4Q05.
+15:10 Tuesday in 4Q05.
 
 

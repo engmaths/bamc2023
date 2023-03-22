@@ -7,7 +7,7 @@ bookToc: false
 
 **Yidan Xue, Stephen Payne**
 
-Monday at 11:50 AM in 4Q56.
+11:50 Monday in 4Q56.
 
 Part of the *[Physiological flows and transport]({{< relref "/sessions/session11" >}})* session.
 

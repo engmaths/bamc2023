@@ -7,7 +7,7 @@ bookToc: false
 
 **Panagiotis Kaklamanos, Tasso Kaper, Nikola Popovic**
 
-Tuesday at 2:30 PM in 4Q04.
+14:30 Tuesday in 4Q04.
 
 Part of the *[Travelling waves]({{< relref "/sessions/session38" >}})* session.
 

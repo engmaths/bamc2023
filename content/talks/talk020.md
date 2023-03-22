@@ -7,7 +7,7 @@ bookToc: false
 
 **Lloyd Fung, R N Bearon, Y Hwang**
 
-Wednesday at 10:50 AM in 4Q56.
+10:50 Wednesday in 4Q56.
 
 Part of the *[Asymptotics in active matter]({{< relref "/sessions/session53" >}})* session.
 

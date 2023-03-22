@@ -7,7 +7,7 @@ bookToc: false
 
 **Oscar Holroyd, Susana N Gomes, Radu Cimpeanu**
 
-Wednesday at 11:10 AM in 2Q48.
+11:10 Wednesday in 2Q48.
 
 Part of the *[Optimisation and control for nonlinear dynamics]({{< relref "/sessions/session43" >}})* session.
 

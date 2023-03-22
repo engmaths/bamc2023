@@ -7,7 +7,7 @@ bookToc: false
 
 **Oliver Cattell**
 
-Tuesday at 11:30 AM in 2Q50/51.
+11:30 Tuesday in 2Q50/51.
 
 Part of the *[Neurodynamics]({{< relref "/sessions/session24" >}})* session.
 

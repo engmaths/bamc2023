@@ -7,7 +7,7 @@ bookToc: false
 
 **Christopher Overton, Sam Abbott, Rachel Christie, Fergus Cumming, Julie Day, Owen Jones, Rob Paton, Charlie Turner, Tom Ward**
 
-Wednesday at 10:30 AM in 2Q50/51.
+10:30 Wednesday in 2Q50/51.
 
 Part of the *[Epidemiology and statistical learning]({{< relref "/sessions/session45" >}})* session.
 

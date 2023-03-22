@@ -7,7 +7,7 @@ bookToc: false
 
 **Rachel Bennett, Fanlong Meng, Nariya Uchida, Ramin Golestanian**
 
-Monday at 2:30 PM in 2Q48.
+14:30 Monday in 2Q48.
 
 Part of the *[Controlling active matter]({{< relref "/sessions/session12" >}})* session.
 

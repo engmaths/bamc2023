@@ -7,7 +7,7 @@ bookToc: false
 
 **Ander Biguri, Malena Sabate Landman, Sepideh Hatamikia, Richard Boardman, John Aston, Carola-Bibiane Schonlieb**
 
-Tuesday at 11:10 AM in 2Q48.
+11:10 Tuesday in 2Q48.
 
 Part of the *[Advances in applied numerical linear algebra and its applications]({{< relref "/sessions/session22" >}})* session.
 

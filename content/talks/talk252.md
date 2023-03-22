@@ -7,7 +7,7 @@ bookToc: false
 
 **Mariia Dvoriashyna, Alain Goriely**
 
-Monday at 12:50 PM in 4Q56.
+12:50 Monday in 4Q56.
 
 Part of the *[Physiological flows and transport]({{< relref "/sessions/session11" >}})* session.
 

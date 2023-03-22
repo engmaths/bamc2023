@@ -7,7 +7,7 @@ bookToc: false
 
 **Matthew Haynes, Marc Pradas**
 
-Wednesday at 11:30 AM in 3Q16.
+11:30 Wednesday in 3Q16.
 
 Part of the *[Evaporation]({{< relref "/sessions/session47" >}})* session.
 

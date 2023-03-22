@@ -7,7 +7,7 @@ bookToc: false
 
 **Reidun Twarock**
 
-Tuesday at 2:50 PM in 4Q56.
+14:50 Tuesday in 4Q56.
 
 Part of the *[New mathematical approaches in the life sciences]({{< relref "/sessions/session41" >}})* session.
 

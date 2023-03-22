@@ -7,7 +7,7 @@ bookToc: false
 
 **Claudia De Sousa Miranda Perez, Philip Pearce, Thomas Michaels, Luke Davis**
 
-Wednesday at 10:30 AM in 3Q68.
+10:30 Wednesday in 3Q68.
 
 Part of the *[Blood and blood vessels]({{< relref "/sessions/session48" >}})* session.
 

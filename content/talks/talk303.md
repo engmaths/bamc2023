@@ -7,7 +7,7 @@ bookToc: false
 
 **Hamid A Adamu, Edmund E Chadwick**
 
-Monday at 3:50 PM in 4Q08.
+15:50 Monday in 4Q08.
 
 Part of the *[Boundary layer flows and stability]({{< relref "/sessions/session19" >}})* session.
 

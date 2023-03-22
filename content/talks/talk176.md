@@ -7,7 +7,7 @@ bookToc: false
 
 **Nathan Coombs, Mykyta Chubynsky, James Sprittles**
 
-Wednesday at 12:10 PM in 3Q16.
+12:10 Wednesday in 3Q16.
 
 Part of the *[Evaporation]({{< relref "/sessions/session47" >}})* session.
 

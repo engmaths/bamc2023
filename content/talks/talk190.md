@@ -7,7 +7,7 @@ bookToc: false
 
 **Laura Milne, Alexander W Wray, Omar K Matar, Marc Pradas, Stephen K Wilson**
 
-Tuesday at 10:30 AM in 4Q08.
+10:30 Tuesday in 4Q08.
 
 Part of the *[Thin films and contact lines]({{< relref "/sessions/session31" >}})* session.
 

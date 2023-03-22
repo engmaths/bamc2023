@@ -7,7 +7,7 @@ bookToc: false
 
 **Nicolas Boullé, Alex Townsend**
 
-Tuesday at 2:10 PM in 2Q49.
+14:10 Tuesday in 2Q49.
 
 Part of the *[IMA Lighthill-Thwaites prize]({{< relref "/sessions/session23" >}})* session.
 

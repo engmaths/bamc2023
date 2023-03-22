@@ -7,7 +7,7 @@ bookToc: false
 
 **Emilian Parau**
 
-Monday at 2:50 PM in 2Q42.
+14:50 Monday in 2Q42.
 
 Part of the *[Advances in water waves and free-surface flows]({{< relref "/sessions/session01" >}})* session.
 

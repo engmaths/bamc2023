@@ -7,7 +7,7 @@ bookToc: false
 
 **Nicolas Verschueren van Rees, Edgar Knobloch, Hannes Uecker**
 
-Monday at 2:10 PM in 2Q49.
+14:10 Monday in 2Q49.
 
 Part of the *[Dynamics of reaction-transport systems]({{< relref "/sessions/session03" >}})* session.
 

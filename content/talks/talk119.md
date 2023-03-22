@@ -7,7 +7,7 @@ bookToc: false
 
 **Sandeep Shirgill, Sara Jabbari, John Ward, Gowsihan Poologasundarampillai, Sarah Kuehne**
 
-Tuesday at 2:50 PM in 3Q68.
+14:50 Tuesday in 3Q68.
 
 Part of the *[Biofilms and pattern formation]({{< relref "/sessions/session37" >}})* session.
 

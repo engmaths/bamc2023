@@ -7,7 +7,7 @@ bookToc: false
 
 **Rahma Abdulahi, Dave Smith, Carlos Amador, Sara Jabbari**
 
-Tuesday at 2:50 PM in 4Q07.
+14:50 Tuesday in 4Q07.
 
 Part of the *[Industrial mathematics]({{< relref "/sessions/session39" >}})* session.
 

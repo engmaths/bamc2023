@@ -7,7 +7,7 @@ bookToc: false
 
 **Matteo Taffetani, Matthew Hennessy**
 
-Monday at 12:50 PM in 2Q48.
+12:50 Monday in 2Q48.
 
 Part of the *[Mechanics of hydrogels and poroelastic media]({{< relref "/sessions/session02" >}})* session.
 

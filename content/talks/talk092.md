@@ -7,7 +7,7 @@ bookToc: false
 
 **Paulo Sergio Piva, Kevish K Napal, Artur L Gower**
 
-Tuesday at 1:50 PM in 4Q05.
+13:50 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

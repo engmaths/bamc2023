@@ -7,7 +7,7 @@ bookToc: false
 
 **Konstantinos Alexiou, Dan Cooney, Yoichiro Mori**
 
-Monday at 11:50 AM in 3Q16.
+11:50 Monday in 3Q16.
 
 Part of the *[Game theory and agent-based models]({{< relref "/sessions/session05" >}})* session.
 

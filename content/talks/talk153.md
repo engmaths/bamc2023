@@ -7,7 +7,7 @@ bookToc: false
 
 **Raphael Stuhlmeier, David Andrade**
 
-Monday at 3:10 PM in 2Q42.
+15:10 Monday in 2Q42.
 
 Part of the *[Advances in water waves and free-surface flows]({{< relref "/sessions/session01" >}})* session.
 

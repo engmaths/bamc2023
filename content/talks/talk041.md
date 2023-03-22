@@ -7,7 +7,7 @@ bookToc: false
 
 **Pradeep Keshavanarayana, Fabian Spill**
 
-Wednesday at 11:30 AM in 3Q68.
+11:30 Wednesday in 3Q68.
 
 Part of the *[Blood and blood vessels]({{< relref "/sessions/session48" >}})* session.
 

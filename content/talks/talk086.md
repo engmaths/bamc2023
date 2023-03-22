@@ -7,7 +7,7 @@ bookToc: false
 
 **TD Dang**
 
-Monday at 11:50 AM in 4Q08.
+11:50 Monday in 4Q08.
 
 Part of the *[Analysis of continuum mechanics]({{< relref "/sessions/session10" >}})* session.
 

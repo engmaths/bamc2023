@@ -7,7 +7,7 @@ bookToc: false
 
 **Matthew Crowe**
 
-Tuesday at 10:30 AM in 4Q07.
+10:30 Tuesday in 4Q07.
 
 Part of the *[Geophysics and climate]({{< relref "/sessions/session30" >}})* session.
 

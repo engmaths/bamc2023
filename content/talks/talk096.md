@@ -7,7 +7,7 @@ bookToc: false
 
 **Sophie Abrahams, Bing Yang, Jessica Williams, Ben Turney, Robin Cleveland, Sarah Waters, Derek Moulton**
 
-Tuesday at 11:50 AM in 3Q68.
+11:50 Tuesday in 3Q68.
 
 Part of the *[Mathematical medicine]({{< relref "/sessions/session27" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Liam Escott, Paul Griffiths**
 
-Wednesday at 11:50 AM in 3E11.
+11:50 Wednesday in 3E11.
 
 Part of the *[Applied fluid dynamics]({{< relref "/sessions/session46" >}})* session.
 

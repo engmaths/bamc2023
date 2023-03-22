@@ -7,7 +7,7 @@ bookToc: false
 
 **George Booth, Mohit Dalwadi, Pierre-Alexis Mouthuy, Hua Ye, Sarah Waters**
 
-Monday at 12:10 PM in 4Q56.
+12:10 Monday in 4Q56.
 
 Part of the *[Physiological flows and transport]({{< relref "/sessions/session11" >}})* session.
 

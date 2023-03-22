@@ -7,7 +7,7 @@ bookToc: false
 
 **Anushka Herale, Duncan Hewitt, Philip Pearce**
 
-Wednesday at 10:50 AM in 3Q68.
+10:50 Wednesday in 3Q68.
 
 Part of the *[Blood and blood vessels]({{< relref "/sessions/session48" >}})* session.
 

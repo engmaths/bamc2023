@@ -7,7 +7,7 @@ bookToc: false
 
 **Blaine Van Rensburg, Fabian Spill**
 
-Tuesday at 2:50 PM in 4Q04.
+14:50 Tuesday in 4Q04.
 
 Part of the *[Travelling waves]({{< relref "/sessions/session38" >}})* session.
 

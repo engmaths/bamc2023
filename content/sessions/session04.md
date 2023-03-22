@@ -19,41 +19,41 @@ Within the minisymposium, we will explore the impact of Test-Trace-Isolate and d
 
 **Ben Swallow**
 
-Monday at 11:10 AM in 2Q50/51.
+11:10 Monday in 2Q50/51.
 
 
 ## [The interplay between population susceptibility and vaccine effectiveness control the timing and size of an emerging influenza wave]({{< relref "/talks/talk360" >}})
 
 **Edwin Van Leeuwen**
 
-Monday at 11:30 AM in 2Q50/51.
+11:30 Monday in 2Q50/51.
 
 
 ## [Considerations for informing Test, Trace and support to Isolate (TTI) intervention design following the experience of COVID-19]({{< relref "/talks/talk361" >}})
 
 **Elizabeth Fearon**
 
-Monday at 11:50 AM in 2Q50/51.
+11:50 Monday in 2Q50/51.
 
 
 ## [The role of enclosed population in an epidemic ]({{< relref "/talks/talk362" >}})
 
 **Thomas Finnie**
 
-Monday at 12:10 PM in 2Q50/51.
+12:10 Monday in 2Q50/51.
 
 
 ## [WasteWater as a pandemic surveillance tool]({{< relref "/talks/talk363" >}})
 
 **Zhou Fang**
 
-Monday at 12:30 PM in 2Q50/51.
+12:30 Monday in 2Q50/51.
 
 
 ## [Lessons from modelling during a pandemic and for pandemic preparedness ]({{< relref "/talks/talk364" >}})
 
 **Jasmina Panovska-Griffiths**
 
-Monday at 12:50 PM in 2Q50/51.
+12:50 Monday in 2Q50/51.
 
 

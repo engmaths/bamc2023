@@ -17,41 +17,41 @@ Our everyday lives involve a myriad of interactions with other people, which col
 
 **Shazia Babul**
 
-Wednesday at 10:30 AM in 2Q49.
+10:30 Wednesday in 2Q49.
 
 
 ## [Mitigating the impact of negative vaccine-related information diffusion]({{< relref "/talks/talk352" >}})
 
 **Sarah Alahmadi, Rebecca Hoyle, Markus Brede**
 
-Wednesday at 10:50 AM in 2Q49.
+10:50 Wednesday in 2Q49.
 
 
 ## [Binary Synchronization of Randomly Forced Oscillators]({{< relref "/talks/talk350" >}})
 
 **Jeremy Worsfold**
 
-Wednesday at 11:10 AM in 2Q49.
+11:10 Wednesday in 2Q49.
 
 
 ## [Enabling Imitation-Based Cooperation in Dynamic Social Networks]({{< relref "/talks/talk117" >}})
 
 **Jacques Bara, Paolo Turrini, Giulia Andrighetto**
 
-Wednesday at 11:30 AM in 2Q49.
+11:30 Wednesday in 2Q49.
 
 
 ## [Analysing The Uncertainty of Wiretaps in Criminal Networks]({{< relref "/talks/talk349" >}})
 
 **Daniel Catlin**
 
-Wednesday at 11:50 AM in 2Q49.
+11:50 Wednesday in 2Q49.
 
 
 ## [Modelling Social Dynamics on Clustered Networks]({{< relref "/talks/talk351" >}})
 
 **Leah Keating**
 
-Wednesday at 12:10 PM in 2Q49.
+12:10 Wednesday in 2Q49.
 
 

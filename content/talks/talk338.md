@@ -7,7 +7,7 @@ bookToc: false
 
 **Callum Cuttle, Christopher W MacMinn**
 
-Tuesday at 2:50 PM in 4Q08.
+14:50 Tuesday in 4Q08.
 
 Part of the *[Microfluidics and flow in porous media]({{< relref "/sessions/session40" >}})* session.
 

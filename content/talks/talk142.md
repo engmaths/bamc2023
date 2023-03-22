@@ -7,7 +7,7 @@ bookToc: false
 
 **Josh Shelton**
 
-Tuesday at 11:10 AM in 2Q49.
+11:10 Tuesday in 2Q49.
 
 Part of the *[IMA Lighthill-Thwaites prize]({{< relref "/sessions/session23" >}})* session.
 

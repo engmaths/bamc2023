@@ -7,7 +7,7 @@ bookToc: false
 
 **Radu Cimpeanu, Luke F L Alventosa, Daniel M Harris**
 
-Monday at 11:10 AM in 4Q04.
+11:10 Monday in 4Q04.
 
 Part of the *[Droplets and impact]({{< relref "/sessions/session07" >}})* session.
 

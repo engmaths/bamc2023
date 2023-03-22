@@ -7,7 +7,7 @@ bookToc: false
 
 **Kairui Li**
 
-Monday at 2:30 PM in 3Q68.
+14:30 Monday in 3Q68.
 
 Part of the *[Cell and tissue mechanics]({{< relref "/sessions/session15" >}})* session.
 

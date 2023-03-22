@@ -19,41 +19,41 @@ This minisymposium will be at the intersection of physiology and mathematics as 
 
 **Abhishek Upadhyay, Jamila Rowland-Chandler, Gabriela Pingarron-Cardenas, Alex Webb, James Locke**
 
-Wednesday at 10:30 AM in 2Q42.
+10:30 Wednesday in 2Q42.
 
 
 ## [Modelling the cell-autonomous lung circadian clock]({{< relref "/talks/talk258" >}})
 
 **Matthew Leak**
 
-Wednesday at 10:50 AM in 2Q42.
+10:50 Wednesday in 2Q42.
 
 
 ## [Ticking and talking in the brainstem satiety centre: A phase model of three clocks    ]({{< relref "/talks/talk307" >}})
 
 **Jake Ahern, Lukasz Chrobok, Hugh Piggins, Alan Champneys**
 
-Wednesday at 11:10 AM in 2Q42.
+11:10 Wednesday in 2Q42.
 
 
 ## [TimeTeller: a tool to analyse from data the circadian clock as a multigene dynamical system.]({{< relref "/talks/talk333" >}})
 
 **David Rand**
 
-Wednesday at 11:30 AM in 2Q42.
+11:30 Wednesday in 2Q42.
 
 
 ## [Regulation of human sleep timing and physiology by biological oscillators coding for history and time and influenced by environmental cycles]({{< relref "/talks/talk255" >}})
 
 **Derk-Jan Dijk**
 
-Wednesday at 11:50 AM in 2Q42.
+11:50 Wednesday in 2Q42.
 
 
 ## [Maths, sleep and policies for 21st century living]({{< relref "/talks/talk256" >}})
 
 **Anne Skeldon**
 
-Wednesday at 12:10 PM in 2Q42.
+12:10 Wednesday in 2Q42.
 
 

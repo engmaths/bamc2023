@@ -7,7 +7,7 @@ bookToc: false
 
 **Mozhdeh Erfanian, Ed Brambley, Francis Flanagan, Doireann O’Kiely**
 
-Monday at 3:10 PM in 4Q05.
+15:10 Monday in 4Q05.
 
 Part of the *[Solid mechanics]({{< relref "/sessions/session17" >}})* session.
 

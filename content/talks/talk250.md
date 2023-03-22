@@ -7,7 +7,7 @@ bookToc: false
 
 **Ariel Ramirez Torres, Mariam Al Mudarra, Alfio Grillo**
 
-Tuesday at 11:30 AM in 4Q56.
+11:30 Tuesday in 4Q56.
 
 Part of the *[Chemo-mechanical couplings in growing tissues]({{< relref "/sessions/session32" >}})* session.
 

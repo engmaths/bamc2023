@@ -7,7 +7,7 @@ bookToc: false
 
 **Agnes Bokanyi-Toth, Dmitri Tseluiko, Andrew J Archer, Hemaka Bandulasena**
 
-Tuesday at 12:10 PM in 4Q08.
+12:10 Tuesday in 4Q08.
 
 Part of the *[Thin films and contact lines]({{< relref "/sessions/session31" >}})* session.
 

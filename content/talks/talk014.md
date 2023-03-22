@@ -7,7 +7,7 @@ bookToc: false
 
 **Lyndon Koens**
 
-Wednesday at 12:10 PM in 4Q56.
+12:10 Wednesday in 4Q56.
 
 Part of the *[Asymptotics in active matter]({{< relref "/sessions/session53" >}})* session.
 

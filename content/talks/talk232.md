@@ -7,7 +7,7 @@ bookToc: false
 
 **Abhishek Chakraborty, Katerina Kaouri, Timothy N Phillips, Philip K Maini, Ruth E Baker, Neophytos Christodoulou, Paris Skourides**
 
-Monday at 12:30 PM in 3Q68.
+12:30 Monday in 3Q68.
 
 Part of the *[Cell modelling]({{< relref "/sessions/session06" >}})* session.
 

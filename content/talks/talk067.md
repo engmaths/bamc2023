@@ -7,7 +7,7 @@ bookToc: false
 
 **Hasan Haq, Mark Broom**
 
-Monday at 2:10 PM in 3Q16.
+14:10 Monday in 3Q16.
 
 Part of the *[Mathematical ecology]({{< relref "/sessions/session14" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Tom Shearer, James Haughton, Simon Cotter, William Parnell**
 
-Monday at 3:10 PM in 3Q68.
+15:10 Monday in 3Q68.
 
 Part of the *[Cell and tissue mechanics]({{< relref "/sessions/session15" >}})* session.
 

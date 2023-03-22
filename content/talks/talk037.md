@@ -7,7 +7,7 @@ bookToc: false
 
 **Jacques Bara, Fernando P Santos, Paolo Turrini**
 
-Monday at 11:30 AM in 3Q16.
+11:30 Monday in 3Q16.
 
 Part of the *[Game theory and agent-based models]({{< relref "/sessions/session05" >}})* session.
 

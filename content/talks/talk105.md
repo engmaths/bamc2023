@@ -7,7 +7,7 @@ bookToc: false
 
 **Arianna Ceccarelli, Alicja Brozek, Andreas C S Joergensen, Mark Hintze, Michalis Barkoulas, Vahid Shahrezaei**
 
-Wednesday at 11:50 AM in 2Q50/51.
+11:50 Wednesday in 2Q50/51.
 
 Part of the *[Epidemiology and statistical learning]({{< relref "/sessions/session45" >}})* session.
 

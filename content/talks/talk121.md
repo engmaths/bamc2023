@@ -7,7 +7,7 @@ bookToc: false
 
 **Mark Blyth, Krasimira Tsaneva-Atanasova, Kyle Wedgwood, Lucia Marucci, Ludovic Renson**
 
-Tuesday at 11:10 AM in 2Q50/51.
+11:10 Tuesday in 2Q50/51.
 
 Part of the *[Neurodynamics]({{< relref "/sessions/session24" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Giles Richardson, Gaurav Singh, Ameir Mahgoub, Helen Walker**
 
-Monday at 2:50 PM in 4Q05.
+14:50 Monday in 4Q05.
 
 Part of the *[Solid mechanics]({{< relref "/sessions/session17" >}})* session.
 

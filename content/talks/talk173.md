@@ -7,7 +7,7 @@ bookToc: false
 
 **Keith Promislow, Noa Kraitzman, Yuan Chen, Brian Wetton**
 
-Tuesday at 3:10 PM in 2Q42.
+15:10 Tuesday in 2Q42.
 
 Part of the *[Sea ice modelling]({{< relref "/sessions/session33" >}})* session.
 

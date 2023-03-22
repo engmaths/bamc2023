@@ -17,41 +17,41 @@ Deformable porous solids that are filled with fluid appear in a wide range of na
 
 **Amy Kent, James Oliver, Sarah Waters, Jon Chapman**
 
-Monday at 11:10 AM in 2Q48.
+11:10 Monday in 2Q48.
 
 
 ## [Formation and collapse of gas cavities in a soft porous medium]({{< relref "/talks/talk118" >}})
 
 **Oliver Paulin, Liam Morrow, Matthew Hennessy, Christopher MacMinn**
 
-Monday at 11:30 AM in 2Q48.
+11:30 Monday in 2Q48.
 
 
 ## [Multiple scales homogenisation of a porous viscoelastic material with rigid inclusions]({{< relref "/talks/talk314" >}})
 
 **Andres F Galvis, J M Foster, Bartosz Protas, Stephen J Chapman**
 
-Monday at 11:50 AM in 2Q48.
+11:50 Monday in 2Q48.
 
 
 ## [Swelling-induced folds in soft microchannels]({{< relref "/talks/talk225" >}})
 
 **Haolin Li, Aidan Retallick, Anne Juel, Matthias Heil, Draga Pihler-Puzovic**
 
-Monday at 12:10 PM in 2Q48.
+12:10 Monday in 2Q48.
 
 
 ## [Computational Modelling of stimuli-responsive hydrogels]({{< relref "/talks/talk280" >}})
 
 **Amin Rahmat, Mostafa Safdari Shadloo, Tom Montenegro-Johnson**
 
-Monday at 12:30 PM in 2Q48.
+12:30 Monday in 2Q48.
 
 
 ## [Curvature-controlled beading in stretched hydrogel cylinders]({{< relref "/talks/talk300" >}})
 
 **Matteo Taffetani, Matthew Hennessy**
 
-Monday at 12:50 PM in 2Q48.
+12:50 Monday in 2Q48.
 
 

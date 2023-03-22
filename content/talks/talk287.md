@@ -7,7 +7,7 @@ bookToc: false
 
 **Ahlam Alghamdi**
 
-Monday at 11:10 AM in 4Q08.
+11:10 Monday in 4Q08.
 
 Part of the *[Analysis of continuum mechanics]({{< relref "/sessions/session10" >}})* session.
 

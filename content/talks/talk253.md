@@ -7,7 +7,7 @@ bookToc: false
 
 **Karol Bacik, Bogdan Bacik, Tim Rogers**
 
-Tuesday at 11:10 AM in 3Q16.
+11:10 Tuesday in 3Q16.
 
 Part of the *[Collective behaviour and transport]({{< relref "/sessions/session26" >}})* session.
 

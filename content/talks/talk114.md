@@ -7,7 +7,7 @@ bookToc: false
 
 **Fanqi Zeng, Nikolai Bode, Thilo Gross, Martin Homer**
 
-Tuesday at 11:30 AM in 3Q16.
+11:30 Tuesday in 3Q16.
 
 Part of the *[Collective behaviour and transport]({{< relref "/sessions/session26" >}})* session.
 

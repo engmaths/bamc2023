@@ -7,7 +7,7 @@ bookToc: false
 
 **Jacob Morgan, Simon Cox**
 
-Tuesday at 11:30 AM in 3E11.
+11:30 Tuesday in 3E11.
 
 Part of the *[Liquid crystals and transport models]({{< relref "/sessions/session25" >}})* session.
 

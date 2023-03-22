@@ -7,7 +7,7 @@ bookToc: false
 
 **Abhishek Ghosh, Andrew McBride, Zhaowei Liu, Luca Heltai, Paul Steinmann, Prashant Saxena**
 
-Wednesday at 11:50 AM in 4Q08.
+11:50 Wednesday in 4Q08.
 
 Part of the *[Filaments, membranes, and shells]({{< relref "/sessions/session52" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Martin Richter, Sergio Terranova, Gabriele Gradoni**
 
-Tuesday at 3:10 PM in 4Q07.
+15:10 Tuesday in 4Q07.
 
 Part of the *[Industrial mathematics]({{< relref "/sessions/session39" >}})* session.
 

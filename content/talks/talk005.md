@@ -7,7 +7,7 @@ bookToc: false
 
 **Andrew Burbanks, Andrew Osbaldestin**
 
-Wednesday at 11:50 AM in 4Q04.
+11:50 Wednesday in 4Q04.
 
 Part of the *[Nonlinear dynamics and applications]({{< relref "/sessions/session49" >}})* session.
 

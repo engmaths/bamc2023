@@ -7,7 +7,7 @@ bookToc: false
 
 **Freddie Jensen, Ed Brambley**
 
-Monday at 11:50 AM in 4Q05.
+11:50 Monday in 4Q05.
 
 Part of the *[Acoustics]({{< relref "/sessions/session08" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Sami Al-Izzi, Gareth Alexander**
 
-Monday at 11:30 AM in 4Q08.
+11:30 Monday in 4Q08.
 
 Part of the *[Analysis of continuum mechanics]({{< relref "/sessions/session10" >}})* session.
 

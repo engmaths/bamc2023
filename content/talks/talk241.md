@@ -7,7 +7,7 @@ bookToc: false
 
 **Reuben O'Dea, Oliver Smith, Stephen Coombes**
 
-Monday at 11:10 AM in 4Q07.
+11:10 Monday in 4Q07.
 
 Part of the *[Mathematics of energy]({{< relref "/sessions/session09" >}})* session.
 

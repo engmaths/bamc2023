@@ -7,7 +7,7 @@ bookToc: false
 
 **Lluís Hernández-Navarro, Asker, Matthew, Rucklidge, Alastair M, Mobilia, Mauro**
 
-Tuesday at 1:50 PM in 3Q68.
+13:50 Tuesday in 3Q68.
 
 Part of the *[Biofilms and pattern formation]({{< relref "/sessions/session37" >}})* session.
 

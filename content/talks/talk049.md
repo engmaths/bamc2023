@@ -7,7 +7,7 @@ bookToc: false
 
 **Mohit Dalwadi, Clément Moreau, Eamonn Gaffney, Benjamin Walker, Kenta Ishimoto**
 
-Wednesday at 10:30 AM in 4Q56.
+10:30 Wednesday in 4Q56.
 
 Part of the *[Asymptotics in active matter]({{< relref "/sessions/session53" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Thomas Jun Jewell, Andrew L Krause, Philip K Maini, Eamonn A Gaffney**
 
-Monday at 12:10 PM in 2Q49.
+12:10 Monday in 2Q49.
 
 Part of the *[Dynamics of reaction-transport systems]({{< relref "/sessions/session03" >}})* session.
 

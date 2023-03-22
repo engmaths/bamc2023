@@ -7,7 +7,7 @@ bookToc: false
 
 **Shazia Babul**
 
-Wednesday at 10:30 AM in 2Q49.
+10:30 Wednesday in 2Q49.
 
 Part of the *[Networks and complex systems in society]({{< relref "/sessions/session44" >}})* session.
 

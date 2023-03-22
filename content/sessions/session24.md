@@ -17,41 +17,41 @@ Neurodynamics employs techniques from dynamical systems theory, including bifurc
 
 **Christoffer Gretarsson Alexandersen, Alain Goriely, Christian Bick, Willem de Haan**
 
-Tuesday at 10:30 AM in 2Q50/51.
+10:30 Tuesday in 2Q50/51.
 
 
 ## [Phase-Isostable Reduction of Coupled Oscillator Networks]({{< relref "/talks/talk135" >}})
 
 **Robert Allen**
 
-Tuesday at 10:50 AM in 2Q50/51.
+10:50 Tuesday in 2Q50/51.
 
 
 ## [Exploring the bifurcations of excitable cells with control-based continuation]({{< relref "/talks/talk121" >}})
 
 **Mark Blyth, Krasimira Tsaneva-Atanasova, Kyle Wedgwood, Lucia Marucci, Ludovic Renson**
 
-Tuesday at 11:10 AM in 2Q50/51.
+11:10 Tuesday in 2Q50/51.
 
 
 ## [Tonic-clonic seizure transitions in a next generation neural field model]({{< relref "/talks/talk244" >}})
 
 **Oliver Cattell**
 
-Tuesday at 11:30 AM in 2Q50/51.
+11:30 Tuesday in 2Q50/51.
 
 
 ## [Hierarchical processing underpins competition in tactile perceptual bistability]({{< relref "/talks/talk249" >}})
 
 **Farzaneh Darki, Andrea Ferrario, James Rankin**
 
-Tuesday at 11:50 AM in 2Q50/51.
+11:50 Tuesday in 2Q50/51.
 
 
 ## [Investigating travelling waves in a 2D network of spiking neurons]({{< relref "/talks/talk284" >}})
 
 **Henry Kerr**
 
-Tuesday at 12:10 PM in 2Q50/51.
+12:10 Tuesday in 2Q50/51.
 
 

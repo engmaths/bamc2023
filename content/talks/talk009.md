@@ -7,7 +7,7 @@ bookToc: false
 
 **Dan J Hill, Jason J Bramburger, David J B Lloyd**
 
-Monday at 2:30 PM in 2Q49.
+14:30 Monday in 2Q49.
 
 Part of the *[Dynamics of reaction-transport systems]({{< relref "/sessions/session03" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Elena Medvedeva, Anastasia Kisil, Raphael Assier**
 
-Tuesday at 11:30 AM in 4Q05.
+11:30 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

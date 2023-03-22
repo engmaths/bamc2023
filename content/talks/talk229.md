@@ -7,7 +7,7 @@ bookToc: false
 
 **Brian Wetton**
 
-Tuesday at 2:50 PM in 2Q42.
+14:50 Tuesday in 2Q42.
 
 Part of the *[Sea ice modelling]({{< relref "/sessions/session33" >}})* session.
 

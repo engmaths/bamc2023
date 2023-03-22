@@ -7,7 +7,7 @@ bookToc: false
 
 **Ferran Brosa Planella**
 
-Tuesday at 1:50 PM in 4Q07.
+13:50 Tuesday in 4Q07.
 
 Part of the *[Industrial mathematics]({{< relref "/sessions/session39" >}})* session.
 

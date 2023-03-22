@@ -7,7 +7,7 @@ bookToc: false
 
 **Anne Skeldon**
 
-Wednesday at 12:10 PM in 2Q42.
+12:10 Wednesday in 2Q42.
 
 Part of the *[Mathematical modelling of sleep and circadian rhythms: from molecular mechanisms to policy]({{< relref "/sessions/session42" >}})* session.
 

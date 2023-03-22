@@ -20,41 +20,41 @@ The modelling of problems related to physiological transport requires a variety 
 
 **Daniel Netherwood, Robert J Whittaker**
 
-Monday at 11:10 AM in 4Q56.
+11:10 Monday in 4Q56.
 
 
 ## [Understanding the mechanism of unconventional drainage from the eye]({{< relref "/talks/talk064" >}})
 
 **Jennifer Tweedy, Mariia Dvoriashyna, Jessica Crawshaw, Darryl Overby, Rodolfo Repetto, Paul Roberts, Tamsin Spelman, Peter Stewart, Alexander Foss**
 
-Monday at 11:30 AM in 4Q56.
+11:30 Monday in 4Q56.
 
 
 ## [Modelling oxygen transport in the human cerebral microvasculature]({{< relref "/talks/talk147" >}})
 
 **Yidan Xue, Stephen Payne**
 
-Monday at 11:50 AM in 4Q56.
+11:50 Monday in 4Q56.
 
 
 ## [Modelling metabolite transport in hollow fibre membrane bioreactors]({{< relref "/talks/talk213" >}})
 
 **George Booth, Mohit Dalwadi, Pierre-Alexis Mouthuy, Hua Ye, Sarah Waters**
 
-Monday at 12:10 PM in 4Q56.
+12:10 Monday in 4Q56.
 
 
 ## [Flow and transport in the human placenta: from multiscale imaging to structural determinants of function]({{< relref "/talks/talk322" >}})
 
 **Igor Chernyavsky, Alys Clark, Alexander Erlich, Oliver Jensen, Philip Pearce, Win Tun, Carl Whitfield, et al.**
 
-Monday at 12:30 PM in 4Q56.
+12:30 Monday in 4Q56.
 
 
 ## [Oscillatory and steady streaming flow of cerebrospinal fluid during the cardiac cycle]({{< relref "/talks/talk252" >}})
 
 **Mariia Dvoriashyna, Alain Goriely**
 
-Monday at 12:50 PM in 4Q56.
+12:50 Monday in 4Q56.
 
 

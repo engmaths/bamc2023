@@ -7,7 +7,7 @@ bookToc: false
 
 **Hollie Lloyd, J M N T Gray, C G Johnson, G K Reynolds**
 
-Wednesday at 10:30 AM in 4Q07.
+10:30 Wednesday in 4Q07.
 
 Part of the *[Granular and multiphase flows]({{< relref "/sessions/session51" >}})* session.
 

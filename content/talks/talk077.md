@@ -7,7 +7,7 @@ bookToc: false
 
 **Berk Altunkeyik**
 
-Tuesday at 3:10 PM in 4Q08.
+15:10 Tuesday in 4Q08.
 
 Part of the *[Microfluidics and flow in porous media]({{< relref "/sessions/session40" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Daniel Netherwood, Robert J Whittaker**
 
-Monday at 11:10 AM in 4Q56.
+11:10 Monday in 4Q56.
 
 Part of the *[Physiological flows and transport]({{< relref "/sessions/session11" >}})* session.
 

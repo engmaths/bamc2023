@@ -7,7 +7,7 @@ bookToc: false
 
 **Subhadip Mukherjee, Hong Ye Tan, Junqi Tang, Andreas Hauptmann, Carola-Bibiane Schönlieb**
 
-Tuesday at 12:10 PM in 2Q48.
+12:10 Tuesday in 2Q48.
 
 Part of the *[Advances in applied numerical linear algebra and its applications]({{< relref "/sessions/session22" >}})* session.
 

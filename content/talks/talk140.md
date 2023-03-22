@@ -7,7 +7,7 @@ bookToc: false
 
 **Anna Katsiavria, Demetrios T Papageorgiou**
 
-Tuesday at 1:30 PM in 2Q49.
+13:30 Tuesday in 2Q49.
 
 Part of the *[IMA Lighthill-Thwaites prize]({{< relref "/sessions/session23" >}})* session.
 

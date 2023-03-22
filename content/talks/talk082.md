@@ -7,7 +7,7 @@ bookToc: false
 
 **Will Clarke, Giles Richardson**
 
-Monday at 12:10 PM in 4Q07.
+12:10 Monday in 4Q07.
 
 Part of the *[Mathematics of energy]({{< relref "/sessions/session09" >}})* session.
 

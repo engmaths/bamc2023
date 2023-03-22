@@ -7,7 +7,7 @@ bookToc: false
 
 **Adam M Blakey, Penny Gowland, Paul Houston, Matthew Hubbard, George Hutchinson, Lopa Leach, Reuben O'Dea**
 
-Wednesday at 12:10 PM in 3Q68.
+12:10 Wednesday in 3Q68.
 
 Part of the *[Blood and blood vessels]({{< relref "/sessions/session48" >}})* session.
 

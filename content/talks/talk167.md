@@ -7,7 +7,7 @@ bookToc: false
 
 **Delaney Mosier**
 
-Tuesday at 2:10 PM in 2Q42.
+14:10 Tuesday in 2Q42.
 
 Part of the *[Sea ice modelling]({{< relref "/sessions/session33" >}})* session.
 

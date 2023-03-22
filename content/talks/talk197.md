@@ -7,7 +7,7 @@ bookToc: false
 
 **Kat Phillips**
 
-Monday at 11:30 AM in 4Q04.
+11:30 Monday in 4Q04.
 
 Part of the *[Droplets and impact]({{< relref "/sessions/session07" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Jessica Jordan Kent, Artur Lewis Gower**
 
-Tuesday at 2:10 PM in 4Q05.
+14:10 Tuesday in 4Q05.
 
 Part of the *[Multiple wave scattering]({{< relref "/sessions/session29" >}})* session.
 

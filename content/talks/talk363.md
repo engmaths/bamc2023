@@ -7,7 +7,7 @@ bookToc: false
 
 **Zhou Fang**
 
-Monday at 12:30 PM in 2Q50/51.
+12:30 Monday in 2Q50/51.
 
 Part of the *[How to be better prepared for a future pandemic: lessons learned from COVID-19, mpox and the four historic influenza pandemics]({{< relref "/sessions/session04" >}})* session.
 

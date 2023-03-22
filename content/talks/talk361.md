@@ -7,7 +7,7 @@ bookToc: false
 
 **Elizabeth Fearon**
 
-Monday at 11:50 AM in 2Q50/51.
+11:50 Monday in 2Q50/51.
 
 Part of the *[How to be better prepared for a future pandemic: lessons learned from COVID-19, mpox and the four historic influenza pandemics]({{< relref "/sessions/session04" >}})* session.
 

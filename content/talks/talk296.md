@@ -7,7 +7,7 @@ bookToc: false
 
 **Cecilie Andersen, Chris Lustri, Scott McCue, Phil Trinh**
 
-Monday at 3:30 PM in 2Q42.
+15:30 Monday in 2Q42.
 
 Part of the *[Advances in water waves and free-surface flows]({{< relref "/sessions/session01" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **John Donohue, Adam Kane, Petri Piiroinen**
 
-Monday at 2:30 PM in 3Q16.
+14:30 Monday in 3Q16.
 
 Part of the *[Mathematical ecology]({{< relref "/sessions/session14" >}})* session.
 

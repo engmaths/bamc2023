@@ -7,7 +7,7 @@ bookToc: false
 
 **Adrianos E F Athanasiadis, Michal K Budzik, Dilum N Fernando, Marcelo A Dias**
 
-Wednesday at 12:10 PM in 4Q05.
+12:10 Wednesday in 4Q05.
 
 Part of the *[Metamaterial modelling and design]({{< relref "/sessions/session50" >}})* session.
 

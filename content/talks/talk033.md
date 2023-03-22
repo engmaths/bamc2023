@@ -7,7 +7,7 @@ bookToc: false
 
 **Hong Duong**
 
-Tuesday at 11:30 AM in 4Q04.
+11:30 Tuesday in 4Q04.
 
 Part of the *[Complex systems and control]({{< relref "/sessions/session28" >}})* session.
 

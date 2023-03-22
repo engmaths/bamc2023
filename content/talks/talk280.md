@@ -7,7 +7,7 @@ bookToc: false
 
 **Amin Rahmat, Mostafa Safdari Shadloo, Tom Montenegro-Johnson**
 
-Monday at 12:30 PM in 2Q48.
+12:30 Monday in 2Q48.
 
 Part of the *[Mechanics of hydrogels and poroelastic media]({{< relref "/sessions/session02" >}})* session.
 

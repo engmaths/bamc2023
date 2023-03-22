@@ -7,7 +7,7 @@ bookToc: false
 
 **Joseph Cousins, Stephen Wilson, Nigel Mottram**
 
-Tuesday at 10:30 AM in 3E11.
+10:30 Tuesday in 3E11.
 
 Part of the *[Liquid crystals and transport models]({{< relref "/sessions/session25" >}})* session.
 

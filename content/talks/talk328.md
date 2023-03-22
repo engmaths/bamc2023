@@ -7,7 +7,7 @@ bookToc: false
 
 **Barnum Swannell, Sarah Waters, James Oliver, Daniela Ortiz Franyuti, Olivier Frey, Michal Rudnik**
 
-Tuesday at 1:30 PM in 4Q08.
+13:30 Tuesday in 4Q08.
 
 Part of the *[Microfluidics and flow in porous media]({{< relref "/sessions/session40" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Art Gower**
 
-Monday at 2:10 PM in 4Q05.
+14:10 Monday in 4Q05.
 
 Part of the *[Solid mechanics]({{< relref "/sessions/session17" >}})* session.
 

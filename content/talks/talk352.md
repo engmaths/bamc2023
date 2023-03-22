@@ -7,7 +7,7 @@ bookToc: false
 
 **Sarah Alahmadi, Rebecca Hoyle, Markus Brede**
 
-Wednesday at 10:50 AM in 2Q49.
+10:50 Wednesday in 2Q49.
 
 Part of the *[Networks and complex systems in society]({{< relref "/sessions/session44" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Susana Gomes, Dante Kalise**
 
-Wednesday at 10:30 AM in 2Q48.
+10:30 Wednesday in 2Q48.
 
 Part of the *[Optimisation and control for nonlinear dynamics]({{< relref "/sessions/session43" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Guannan Chen, Pranav Singh, Mohammadali Foroozandeh, Chris Budd**
 
-Monday at 2:50 PM in 4Q04.
+14:50 Monday in 4Q04.
 
 Part of the *[Numerical methods]({{< relref "/sessions/session16" >}})* session.
 

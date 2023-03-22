@@ -7,7 +7,7 @@ bookToc: false
 
 **Valentina Bucur**
 
-Tuesday at 2:30 PM in 3Q68.
+14:30 Tuesday in 3Q68.
 
 Part of the *[Biofilms and pattern formation]({{< relref "/sessions/session37" >}})* session.
 

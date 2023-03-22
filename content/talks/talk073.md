@@ -7,7 +7,7 @@ bookToc: false
 
 **Jonna Roden**
 
-Wednesday at 11:30 AM in 2Q48.
+11:30 Wednesday in 2Q48.
 
 Part of the *[Optimisation and control for nonlinear dynamics]({{< relref "/sessions/session43" >}})* session.
 

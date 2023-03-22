@@ -7,7 +7,7 @@ bookToc: false
 
 **Darren Crowdy**
 
-Monday at 11:10 AM in 2Q42.
+11:10 Monday in 2Q42.
 
 Part of the *[Advances in water waves and free-surface flows]({{< relref "/sessions/session01" >}})* session.
 

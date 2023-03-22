@@ -7,7 +7,7 @@ bookToc: false
 
 **James Capers**
 
-Wednesday at 11:10 AM in 4Q05.
+11:10 Wednesday in 4Q05.
 
 Part of the *[Metamaterial modelling and design]({{< relref "/sessions/session50" >}})* session.
 

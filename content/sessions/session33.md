@@ -17,34 +17,34 @@ Sea Ice has mathematical challenges on a wide range of time and space scales wit
 
 **Kenneth M Golden**
 
-Tuesday at 1:30 PM in 2Q42.
+13:30 Tuesday in 2Q42.
 
 
 ## [Partial Differential Equation Models and Deep Learning for the Sea Ice Concentration Field]({{< relref "/talks/talk167" >}})
 
 **Delaney Mosier**
 
-Tuesday at 2:10 PM in 2Q42.
+14:10 Tuesday in 2Q42.
 
 
 ## [Seasonal evolution of the Arctic sea ice thickness distribution]({{< relref "/talks/talk123" >}})
 
 **Srikanth Toppaladoddi, Woosok Moon, John S Wettlaufer**
 
-Tuesday at 2:30 PM in 2Q42.
+14:30 Tuesday in 2Q42.
 
 
 ## [A computational model of the freezing of salt water ]({{< relref "/talks/talk229" >}})
 
 **Brian Wetton**
 
-Tuesday at 2:50 PM in 2Q42.
+14:50 Tuesday in 2Q42.
 
 
 ## [Dynamics of Brine Inclusions in First Year Sea Ice]({{< relref "/talks/talk173" >}})
 
 **Keith Promislow, Noa Kraitzman, Yuan Chen, Brian Wetton**
 
-Tuesday at 3:10 PM in 2Q42.
+15:10 Tuesday in 2Q42.
 
 

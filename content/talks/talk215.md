@@ -7,7 +7,7 @@ bookToc: false
 
 **James M Christian, É N McAteer**
 
-Monday at 12:30 PM in 4Q08.
+12:30 Monday in 4Q08.
 
 Part of the *[Analysis of continuum mechanics]({{< relref "/sessions/session10" >}})* session.
 

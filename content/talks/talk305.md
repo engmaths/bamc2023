@@ -7,7 +7,7 @@ bookToc: false
 
 **Ramón Nartallo-Kaluarachchi, Alain Goriely, Renaud Lambiotte, Morten Kringelbach**
 
-Tuesday at 11:30 AM in 3Q68.
+11:30 Tuesday in 3Q68.
 
 Part of the *[Mathematical medicine]({{< relref "/sessions/session27" >}})* session.
 

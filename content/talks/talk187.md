@@ -7,7 +7,7 @@ bookToc: false
 
 **Vivienne Leech**
 
-Monday at 2:50 PM in 3Q68.
+14:50 Monday in 3Q68.
 
 Part of the *[Cell and tissue mechanics]({{< relref "/sessions/session15" >}})* session.
 

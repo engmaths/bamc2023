@@ -7,7 +7,7 @@ bookToc: false
 
 **Aleksandra Kmieciak**
 
-Monday at 3:10 PM in 2Q50/51.
+15:10 Monday in 2Q50/51.
 
 Part of the *[Mathematical pharmacology]({{< relref "/sessions/session13" >}})* session.
 

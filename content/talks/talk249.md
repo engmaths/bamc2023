@@ -7,7 +7,7 @@ bookToc: false
 
 **Farzaneh Darki, Andrea Ferrario, James Rankin**
 
-Tuesday at 11:50 AM in 2Q50/51.
+11:50 Tuesday in 2Q50/51.
 
 Part of the *[Neurodynamics]({{< relref "/sessions/session24" >}})* session.
 

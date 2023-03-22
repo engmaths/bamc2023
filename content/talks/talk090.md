@@ -7,7 +7,7 @@ bookToc: false
 
 **Bandar Muidh Alharbi, Jonathan Wattis, Christopher Fallaize, Tim Parr, John Brameld.**
 
-Monday at 11:10 AM in 3Q68.
+11:10 Monday in 3Q68.
 
 Part of the *[Cell modelling]({{< relref "/sessions/session06" >}})* session.
 

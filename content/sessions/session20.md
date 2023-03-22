@@ -17,41 +17,41 @@ Mathematical Ophthalmology concerns the use of mechanistic mathematical models (
 
 **Paul A Roberts**
 
-Monday at 2:10 PM in 4Q56.
+14:10 Monday in 4Q56.
 
 
 ## [A tool for automated retinal vascular morphology quantification and its applications]({{< relref "/talks/talk012" >}})
 
 **Yukun Zhou, Daniel Alexander, Pearse Keane**
 
-Monday at 2:30 PM in 4Q56.
+14:30 Monday in 4Q56.
 
 
 ## [Pressure wave transmission across the lamina cribrosa]({{< relref "/talks/talk236" >}})
 
 **Peter Stewart, Ifeanyi Sunday Onah, David MacTaggart**
 
-Monday at 2:50 PM in 4Q56.
+14:50 Monday in 4Q56.
 
 
 ## [High amplitude elastic jump propagation through blood vessel junctions ]({{< relref "/talks/talk178" >}})
 
 **Tamsin A Spelman, Ifeanyi S Onah, David MacTaggart, Peter S Stewart**
 
-Monday at 3:10 PM in 4Q56.
+15:10 Monday in 4Q56.
 
 
 ## [Characterising eyes with neovascular age-related macular degeneration]({{< relref "/talks/talk156" >}})
 
 **Remi Hernandez**
 
-Monday at 3:30 PM in 4Q56.
+15:30 Monday in 4Q56.
 
 
 ## [The important role of hierarchical Bayesian inference in understanding macular degeneration treatment strategies]({{< relref "/talks/talk115" >}})
 
 **Jessica Crawshaw, Eamonn Gaffney, Philip Maini, Antonello Caruso, Michael Gertz**
 
-Monday at 3:50 PM in 4Q56.
+15:50 Monday in 4Q56.
 
 

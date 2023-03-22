@@ -7,7 +7,7 @@ bookToc: false
 
 **Georgia S Brennan, Alain Goriely FRS, Marie E Rognes, Travis B Thompson, Hadrien Oliveri**
 
-Monday at 2:10 PM in 4Q07.
+14:10 Monday in 4Q07.
 
 Part of the *[Neurons and networks]({{< relref "/sessions/session18" >}})* session.
 

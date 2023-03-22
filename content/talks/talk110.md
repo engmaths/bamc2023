@@ -7,7 +7,7 @@ bookToc: false
 
 **Emanuele Zuccoli, Ed Brambley, Dwight Barkley**
 
-Wednesday at 11:30 AM in 3E11.
+11:30 Wednesday in 3E11.
 
 Part of the *[Applied fluid dynamics]({{< relref "/sessions/session46" >}})* session.
 

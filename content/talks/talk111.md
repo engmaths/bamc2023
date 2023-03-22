@@ -7,7 +7,7 @@ bookToc: false
 
 **Kat S Rock**
 
-Tuesday at 2:10 PM in 2Q50/51.
+14:10 Tuesday in 2Q50/51.
 
 Part of the *[Modelling and inference in public health]({{< relref "/sessions/session35" >}})* session.
 

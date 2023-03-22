@@ -7,7 +7,7 @@ bookToc: false
 
 **Alastair M Rucklidge**
 
-Wednesday at 10:50 AM in 4Q04.
+10:50 Wednesday in 4Q04.
 
 Part of the *[Nonlinear dynamics and applications]({{< relref "/sessions/session49" >}})* session.
 

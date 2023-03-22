@@ -7,7 +7,7 @@ bookToc: false
 
 **David Sibley, Andrew Archer**
 
-Tuesday at 11:10 AM in 4Q08.
+11:10 Tuesday in 4Q08.
 
 Part of the *[Thin films and contact lines]({{< relref "/sessions/session31" >}})* session.
 

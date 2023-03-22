@@ -7,7 +7,7 @@ bookToc: false
 
 **Haolin Li, Aidan Retallick, Anne Juel, Matthias Heil, Draga Pihler-Puzovic**
 
-Monday at 12:10 PM in 2Q48.
+12:10 Monday in 2Q48.
 
 Part of the *[Mechanics of hydrogels and poroelastic media]({{< relref "/sessions/session02" >}})* session.
 

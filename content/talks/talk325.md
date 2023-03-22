@@ -7,7 +7,7 @@ bookToc: false
 
 **Ahmad Attia, B Chandra, C A Toomer**
 
-Wednesday at 11:50 AM in 4Q07.
+11:50 Wednesday in 4Q07.
 
 Part of the *[Granular and multiphase flows]({{< relref "/sessions/session51" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Clare Rees-Zimmerman, Alex Routh**
 
-Tuesday at 12:10 PM in 2Q49.
+12:10 Tuesday in 2Q49.
 
 Part of the *[IMA Lighthill-Thwaites prize]({{< relref "/sessions/session23" >}})* session.
 

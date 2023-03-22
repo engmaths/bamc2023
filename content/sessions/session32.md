@@ -17,34 +17,34 @@ The functioning of living soft tissues is influenced by a complex interplay of b
 
 **Chiara Giverso, Francesca Ballatore, Giulio Lucci**
 
-Tuesday at 10:30 AM in 4Q56.
+10:30 Tuesday in 4Q56.
 
 
 ## [Minimal Morphoelastic Models of Solid Tumour Spheroids]({{< relref "/talks/talk108" >}})
 
 **Benjamin Walker, Giulia L Celora, Alain Goriely, Derek E Moulton, Helen M Byrne**
 
-Tuesday at 11:10 AM in 4Q56.
+11:10 Tuesday in 4Q56.
 
 
 ## [The effects of non-local diffusion on the growth of an avascular tumour]({{< relref "/talks/talk250" >}})
 
 **Ariel Ramirez Torres, Mariam Al Mudarra, Alfio Grillo**
 
-Tuesday at 11:30 AM in 4Q56.
+11:30 Tuesday in 4Q56.
 
 
 ## [Mechanotransduction in axon: Remodelling of the actin cortex]({{< relref "/talks/talk152" >}})
 
 **Davide Riccobelli, D Andrini, V Balbi, G Bevilacqua, G Lucci, G Pozzi**
 
-Tuesday at 11:50 AM in 4Q56.
+11:50 Tuesday in 4Q56.
 
 
 ## [Mechanical feedback in size regulation]({{< relref "/talks/talk150" >}})
 
 **Alexander Erlich, Pierre Recho**
 
-Tuesday at 12:10 PM in 4Q56.
+12:10 Tuesday in 4Q56.
 
 

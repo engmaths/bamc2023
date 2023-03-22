@@ -7,7 +7,7 @@ bookToc: false
 
 **Jonathan Healey**
 
-Monday at 12:50 PM in 4Q08.
+12:50 Monday in 4Q08.
 
 Part of the *[Analysis of continuum mechanics]({{< relref "/sessions/session10" >}})* session.
 

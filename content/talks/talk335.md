@@ -7,7 +7,7 @@ bookToc: false
 
 **Xin Guan, Jean-Marc Vanden-Broeck**
 
-Monday at 12:50 PM in 2Q42.
+12:50 Monday in 2Q42.
 
 Part of the *[Advances in water waves and free-surface flows]({{< relref "/sessions/session01" >}})* session.
 

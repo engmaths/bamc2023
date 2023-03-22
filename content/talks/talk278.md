@@ -7,7 +7,7 @@ bookToc: false
 
 **Chung-Hao Wang, Alexander Korobkin**
 
-Tuesday at 11:50 AM in 4Q08.
+11:50 Tuesday in 4Q08.
 
 Part of the *[Thin films and contact lines]({{< relref "/sessions/session31" >}})* session.
 

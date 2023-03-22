@@ -7,7 +7,7 @@ bookToc: false
 
 **Liam Morrow, Chris MacMinn, Oliver Paulin, Matthew Hennessy, Duncan Hewitt**
 
-Wednesday at 11:10 AM in 4Q07.
+11:10 Wednesday in 4Q07.
 
 Part of the *[Granular and multiphase flows]({{< relref "/sessions/session51" >}})* session.
 

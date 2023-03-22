@@ -7,7 +7,7 @@ bookToc: false
 
 **Thomas Elliott, Mile Gu, Andrew Garner, Jayne Thompson**
 
-Tuesday at 2:50 PM in 3Q16.
+14:50 Tuesday in 3Q16.
 
 Part of the *[Stochastic processes and random walks]({{< relref "/sessions/session36" >}})* session.
 

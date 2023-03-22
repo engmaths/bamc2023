@@ -7,7 +7,7 @@ bookToc: false
 
 **Amy Kent, James Oliver, Sarah Waters, Jon Chapman**
 
-Monday at 11:10 AM in 2Q48.
+11:10 Monday in 2Q48.
 
 Part of the *[Mechanics of hydrogels and poroelastic media]({{< relref "/sessions/session02" >}})* session.
 

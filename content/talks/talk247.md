@@ -7,7 +7,7 @@ bookToc: false
 
 **Francesco Di Lauro**
 
-Tuesday at 1:50 PM in 2Q50/51.
+13:50 Tuesday in 2Q50/51.
 
 Part of the *[Modelling and inference in public health]({{< relref "/sessions/session35" >}})* session.
 

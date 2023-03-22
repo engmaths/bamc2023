@@ -7,7 +7,7 @@ bookToc: false
 
 **Lucia Marucci**
 
-Monday at 3:30 PM in 2Q50/51.
+15:30 Monday in 2Q50/51.
 
 Part of the *[Mathematical pharmacology]({{< relref "/sessions/session13" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Valeria Giunta, Thomas Hillen, Mark Lewis, Jonathan Potts**
 
-Monday at 3:30 PM in 2Q49.
+15:30 Monday in 2Q49.
 
 Part of the *[Dynamics of reaction-transport systems]({{< relref "/sessions/session03" >}})* session.
 

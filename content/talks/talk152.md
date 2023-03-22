@@ -7,7 +7,7 @@ bookToc: false
 
 **Davide Riccobelli, D Andrini, V Balbi, G Bevilacqua, G Lucci, G Pozzi**
 
-Tuesday at 11:50 AM in 4Q56.
+11:50 Tuesday in 4Q56.
 
 Part of the *[Chemo-mechanical couplings in growing tissues]({{< relref "/sessions/session32" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Daniel Mckinnell, Chris Johnson, Nico Gray**
 
-Wednesday at 10:50 AM in 4Q07.
+10:50 Wednesday in 4Q07.
 
 Part of the *[Granular and multiphase flows]({{< relref "/sessions/session51" >}})* session.
 

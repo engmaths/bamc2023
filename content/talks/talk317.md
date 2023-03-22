@@ -7,7 +7,7 @@ bookToc: false
 
 **Michael Gomez, Pedro M Reis, Basile Audoly**
 
-Wednesday at 10:30 AM in 4Q08.
+10:30 Wednesday in 4Q08.
 
 Part of the *[Filaments, membranes, and shells]({{< relref "/sessions/session52" >}})* session.
 

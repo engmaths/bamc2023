@@ -7,7 +7,7 @@ bookToc: false
 
 **Filip A Jovanovic, Tom S Eaves**
 
-Wednesday at 11:10 AM in 4Q04.
+11:10 Wednesday in 4Q04.
 
 Part of the *[Nonlinear dynamics and applications]({{< relref "/sessions/session49" >}})* session.
 

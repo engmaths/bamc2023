@@ -7,7 +7,7 @@ bookToc: false
 
 **Madeleine Moore, Alex Wray**
 
-Wednesday at 11:50 AM in 3Q16.
+11:50 Wednesday in 3Q16.
 
 Part of the *[Evaporation]({{< relref "/sessions/session47" >}})* session.
 

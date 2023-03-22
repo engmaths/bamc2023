@@ -7,7 +7,7 @@ bookToc: false
 
 **Peter Lewin-Jones, James Sprittles, Duncan Lockerby**
 
-Monday at 11:50 AM in 4Q04.
+11:50 Monday in 4Q04.
 
 Part of the *[Droplets and impact]({{< relref "/sessions/session07" >}})* session.
 

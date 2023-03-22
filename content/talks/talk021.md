@@ -7,7 +7,7 @@ bookToc: false
 
 **Eugene S Benilov**
 
-Wednesday at 10:30 AM in 3Q16.
+10:30 Wednesday in 3Q16.
 
 Part of the *[Evaporation]({{< relref "/sessions/session47" >}})* session.
 

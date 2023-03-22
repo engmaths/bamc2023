@@ -7,7 +7,7 @@ bookToc: false
 
 **Sam Harris, Robb McDonald**
 
-Monday at 3:50 PM in 3Q16.
+15:50 Monday in 3Q16.
 
 Part of the *[Mathematical ecology]({{< relref "/sessions/session14" >}})* session.
 

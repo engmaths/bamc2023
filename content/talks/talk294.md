@@ -7,7 +7,7 @@ bookToc: false
 
 **Chiara Giverso, Francesca Ballatore, Giulio Lucci**
 
-Tuesday at 10:30 AM in 4Q56.
+10:30 Tuesday in 4Q56.
 
 Part of the *[Chemo-mechanical couplings in growing tissues]({{< relref "/sessions/session32" >}})* session.
 
