@@ -32,8 +32,8 @@ All talks will be on the Frenchay Campus, UWE, except for the public lecture on 
 | 13:30--15:30 | [Parallel sessions]({{< relref "/programme/parallel/tue_pm" >}}) | Q block |
 | 15:30--16:00 | Coffee |  |
 | 16:00--17:30 | Travel for public lecture |  |
-| 17:30--18:30 | [Public lecture (Zoe Doulgeri)]({{< relref "/programme/plenary/zoe-doulgeri" >}}) | Priory Road lecture theatre |
-| 19:00--01:00 | Conference dinner | Bristol Museum and Art Gallery |
+| 17:30--18:30 | [Public lecture (Zoe Doulgeri)]({{< relref "/programme/plenary/zoe-doulgeri" >}}) | [Priory Road lecture theatre](https://goo.gl/maps/5SGoSriCqjo7YinY7) |
+| 19:00--01:00 | Conference dinner | [Bristol Museum and Art Gallery](https://goo.gl/maps/sta8Jxt2CvdeFEYA6) |
 
 ## Wednesday 5 April 2023
 
