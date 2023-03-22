@@ -1,41 +1,13 @@
 ---
-title: Introduction
-type: docs
+title: BAMC 2023 Programme
 ---
 
-# Acerbo datus maxime
+# BAMC 2023 Programme
 
-{{< columns >}}
-## Astris ipse furtiva
+It is with great pleasure that we welcome you to the 64th annual British Applied Mathematics Colloquium, hosted jointly by the Department of Engineering Design and Mathematics at the University of the West of England (UWE) and the Department of Engineering Mathematics at the University of Bristol. This year's conference promises to be an exciting event, featuring a diverse range of talks and discussions on cutting-edge research in applied mathematics.
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+On this site you will find the programme, including
 
-<--->
-
-## Suis quot vota
-
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+- Programme overview
+- [Minisymposia]({{< relref "/programme/minisymposia" >}})
+- [Contributed talks]({{< relref "/programme/contributed" >}})
