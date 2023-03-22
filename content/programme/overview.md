@@ -5,6 +5,8 @@ weight: 1
 
 # Programme overview
 
+All talks will be on the Frenchay Campus, UWE, except for the public lecture on Tuesday. See the [Frenchay Campus map](/Frenchay-Campus-Map.pdf) for directions.
+
 ## Monday 3 April 2023
 
 | Time | Event | Location |
