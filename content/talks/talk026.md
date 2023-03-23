@@ -7,7 +7,7 @@ bookToc: false
 
 **Kate Nechyporenko**
 
-14:30 Monday in 4Q07.
+14:10 Monday in 4Q07.
 
 Part of the *[Neurons and networks]({{< relref "/sessions/session18" >}})* session.
 

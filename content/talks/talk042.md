@@ -7,7 +7,7 @@ bookToc: false
 
 **Andrew Rowntree, Nancy Papalopulu**
 
-11:30 Monday in 3Q68.
+12:50 Monday in 3Q68.
 
 Part of the *[Cell modelling]({{< relref "/sessions/session06" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Nayef Shkeir, Tobias Grafke, Eric Vanden-Eijnden**
 
-10:50 Tuesday in 4Q07.
+12:10 Tuesday in 4Q07.
 
 Part of the *[Geophysics and climate]({{< relref "/sessions/session30" >}})* session.
 

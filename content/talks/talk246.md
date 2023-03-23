@@ -7,7 +7,7 @@ bookToc: false
 
 **Gordon R McNicol, Peter S Stewart, Matthew J Dalby**
 
-12:50 Monday in 3Q68.
+12:30 Monday in 3Q68.
 
 Part of the *[Cell modelling]({{< relref "/sessions/session06" >}})* session.
 

@@ -7,7 +7,7 @@ bookToc: false
 
 **Natasha Avery, Alan Champneys, Hermes Bloomfield-Gadelha**
 
-11:10 Wednesday in 4Q08.
+10:50 Wednesday in 4Q08.
 
 Part of the *[Filaments, membranes, and shells]({{< relref "/sessions/session52" >}})* session.
 

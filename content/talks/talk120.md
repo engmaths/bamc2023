@@ -7,7 +7,7 @@ bookToc: false
 
 **Antesar Aldawoud, Radostin D Simitev, Hao Gao**
 
-11:50 Monday in 3Q68.
+11:30 Monday in 3Q68.
 
 Part of the *[Cell modelling]({{< relref "/sessions/session06" >}})* session.
 

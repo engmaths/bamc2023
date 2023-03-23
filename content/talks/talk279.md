@@ -7,7 +7,7 @@ bookToc: false
 
 **Elle Mclean**
 
-14:10 Tuesday in 2Q48.
+13:50 Tuesday in 2Q48.
 
 Part of the *[Self-propulsion and fluid-body interactions]({{< relref "/sessions/session34" >}})* session.
 

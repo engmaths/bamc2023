@@ -7,7 +7,7 @@ bookToc: false
 
 **Nickolay Korabel, Alessandro Taloni, Gianni Pagnini, Viki Allan, Sergei Fedotov, Thomas Andrew Waigh**
 
-14:30 Tuesday in 3Q16.
+15:10 Tuesday in 3Q16.
 
 Part of the *[Stochastic processes and random walks]({{< relref "/sessions/session36" >}})* session.
 

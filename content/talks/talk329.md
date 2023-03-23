@@ -7,7 +7,7 @@ bookToc: false
 
 **Yang Zhou, Chris J Budd OBE, Tom S F Haines, Siegfried Gonzi, David R Jackson**
 
-11:30 Tuesday in 4Q07.
+11:10 Tuesday in 4Q07.
 
 Part of the *[Geophysics and climate]({{< relref "/sessions/session30" >}})* session.
 

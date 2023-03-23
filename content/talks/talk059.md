@@ -7,7 +7,7 @@ bookToc: false
 
 **Helena Coggan, Philip Pearce, Mohit Dalwadi, Clare Weeden, Karen Page, Charles Swanton**
 
-12:10 Monday in 3Q68.
+11:50 Monday in 3Q68.
 
 Part of the *[Cell modelling]({{< relref "/sessions/session06" >}})* session.
 

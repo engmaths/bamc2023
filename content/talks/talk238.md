@@ -7,7 +7,7 @@ bookToc: false
 
 **James Cass, Hermes Gadelha**
 
-14:50 Tuesday in 2Q48.
+14:30 Tuesday in 2Q48.
 
 Part of the *[Self-propulsion and fluid-body interactions]({{< relref "/sessions/session34" >}})* session.
 

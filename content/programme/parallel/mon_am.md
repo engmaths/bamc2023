@@ -78,11 +78,11 @@ bookToc: false
 | Time | Title | Authors |
 |:-----|:------|:--------|
 | 11:10 | [Mathematical modelling of metabolic pathways]({{< relref "/talks/talk090" >}}) | Bandar Muidh Alharbi, Jonathan Wattis, Christopher Fallaize, Tim Parr, John Brameld. |
-| 11:30 | [Bilateral Feedback in Oscillator Model Is Required to Explain the Coupling Dynamics of Hes1 with the Cell Cycle]({{< relref "/talks/talk042" >}}) | Andrew Rowntree, Nancy Papalopulu |
-| 11:50 | [Phenomenological analysis of ion channel block in large populations of uncoupled cardiomyocytes]({{< relref "/talks/talk120" >}}) | Antesar Aldawoud, Radostin D Simitev, Hao Gao |
-| 12:10 | [A novel algorithmic approach to simulating cell-cell interactions in lung cancer initiation]({{< relref "/talks/talk059" >}}) | Helena Coggan, Philip Pearce, Mohit Dalwadi, Clare Weeden, Karen Page, Charles Swanton |
-| 12:30 | [Modelling the Coupling of Calcium Signalling and Mechanics in Embryogenesis]({{< relref "/talks/talk232" >}}) | Abhishek Chakraborty, Katerina Kaouri, Timothy N Phillips, Philip K Maini, Ruth E Baker, Neophytos Christodoulou, Paris Skourides |
-| 12:50 | [A one-dimensional continuum model for ventral stress fibre formation]({{< relref "/talks/talk246" >}}) | Gordon R McNicol, Peter S Stewart, Matthew J Dalby |
+| 11:30 | [Phenomenological analysis of ion channel block in large populations of uncoupled cardiomyocytes]({{< relref "/talks/talk120" >}}) | Antesar Aldawoud, Radostin D Simitev, Hao Gao |
+| 11:50 | [A novel algorithmic approach to simulating cell-cell interactions in lung cancer initiation]({{< relref "/talks/talk059" >}}) | Helena Coggan, Philip Pearce, Mohit Dalwadi, Clare Weeden, Karen Page, Charles Swanton |
+| 12:10 | [Modelling the Coupling of Calcium Signalling and Mechanics in Embryogenesis]({{< relref "/talks/talk232" >}}) | Abhishek Chakraborty, Katerina Kaouri, Timothy N Phillips, Philip K Maini, Ruth E Baker, Neophytos Christodoulou, Paris Skourides |
+| 12:30 | [A one-dimensional continuum model for ventral stress fibre formation]({{< relref "/talks/talk246" >}}) | Gordon R McNicol, Peter S Stewart, Matthew J Dalby |
+| 12:50 | [Bilateral Feedback in Oscillator Model Is Required to Explain the Coupling Dynamics of Hes1 with the Cell Cycle]({{< relref "/talks/talk042" >}}) | Andrew Rowntree, Nancy Papalopulu |
 
 ### [Droplets and impact]({{< relref "/sessions/session07" >}}) (in 4Q04)
 

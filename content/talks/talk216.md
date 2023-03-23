@@ -7,7 +7,7 @@ bookToc: false
 
 **Huseyin Yildirim, Chris Antonopoulos**
 
-15:30 Monday in 4Q07.
+15:10 Monday in 4Q07.
 
 Part of the *[Neurons and networks]({{< relref "/sessions/session18" >}})* session.
 

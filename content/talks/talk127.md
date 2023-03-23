@@ -7,7 +7,7 @@ bookToc: false
 
 **Andrei Sontag, Tim Rogers, Christian A Yates**
 
-15:10 Tuesday in 3Q16.
+14:50 Tuesday in 3Q16.
 
 Part of the *[Stochastic processes and random walks]({{< relref "/sessions/session36" >}})* session.
 

@@ -9,7 +9,6 @@ weight: 7
 - [A Reduced-Order Physics-based Model Of Lithium-Ion Batteries With Blended Electrodes: Systematic Derivation And Comparison With Experiment]({{< relref "/talks/talk288" >}})
 - [A multilayer network approach to polarity-driven cell-fate patterning in mammary organoids]({{< relref "/talks/talk069" >}})
 - [A novel causality quantification based on information geometry]({{< relref "/talks/talk198" >}})
-- [Adaptive high gain lambda- tracking Luenberger observers]({{< relref "/talks/talk057" >}})
 - [Agent-based modelling of motile bacterial populations with quorum sensing]({{< relref "/talks/talk138" >}})
 - [Bifurcations for mechanisms of memory formation in a neural network]({{< relref "/talks/talk263" >}})
 - [Bird Gust Soaring Manoeuvre Identification for Energy Efficient Urban Flight]({{< relref "/talks/talk327" >}})

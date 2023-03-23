@@ -7,7 +7,7 @@ bookToc: false
 
 **Matthew Cotton**
 
-11:30 Wednesday in 4Q08.
+11:10 Wednesday in 4Q08.
 
 Part of the *[Filaments, membranes, and shells]({{< relref "/sessions/session52" >}})* session.
 

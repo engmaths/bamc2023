@@ -64,11 +64,10 @@ bookToc: false
 | Time | Title | Authors |
 |:-----|:------|:--------|
 | 13:30 | [Slender chemically-active artificial microswimmers]({{< relref "/talks/talk264" >}}) | Matthew Butler, Panayiota Katsamba, Lyndon Koens, Tom Montenegro-Johnson |
-| 13:50 | [Bidirectional wave-propelled capillary spinners]({{< relref "/talks/talk188" >}}) | Stuart Thomson, Jack-William Barotta, Luke Alventosa, Daniel Harris |
-| 14:10 | [Wake flow past a submerged plate that is normal to the stream]({{< relref "/talks/talk279" >}}) | Elle Mclean |
-| 14:30 | [Asymptotic models for a fluid-loaded elastic layer]({{< relref "/talks/talk166" >}}) | Sheeru Shamsi, Julius Kaplunov, Ludmila Prikazchikova |
-| 14:50 | [Animated reaction-diffusion patterns of eukaryotic flagella]({{< relref "/talks/talk238" >}}) | James Cass, Hermes Gadelha |
-| 15:10 | [PolyScope:  a 3D-printed minimal microscopic system]({{< relref "/talks/talk219" >}}) | Wesley Shao, Hermes Gadelha |
+| 13:50 | [Wake flow past a submerged plate that is normal to the stream]({{< relref "/talks/talk279" >}}) | Elle Mclean |
+| 14:10 | [Asymptotic models for a fluid-loaded elastic layer]({{< relref "/talks/talk166" >}}) | Sheeru Shamsi, Julius Kaplunov, Ludmila Prikazchikova |
+| 14:30 | [Animated reaction-diffusion patterns of eukaryotic flagella]({{< relref "/talks/talk238" >}}) | James Cass, Hermes Gadelha |
+| 14:50 | [PolyScope:  a 3D-printed minimal microscopic system]({{< relref "/talks/talk219" >}}) | Wesley Shao, Hermes Gadelha |
 
 ### [Stochastic processes and random walks]({{< relref "/sessions/session36" >}}) (in 3Q16)
 
@@ -77,9 +76,9 @@ bookToc: false
 | 13:30 | [Exact Spatio-Temporal Dynamics of Lattice Random Walks in Hexagonal and Honeycomb Domains]({{< relref "/talks/talk201" >}}) | Daniel Marris |
 | 13:50 | [Arcsine Laws for Brownian motion in the presence of Permeable Barriers]({{< relref "/talks/talk309" >}}) | Toby Kay |
 | 14:10 | [Understanding the transition to superdiffusion in a simple one-dimensional deterministic map by stochastic Lévy walk models]({{< relref "/talks/talk162" >}}) | Samuel Brevitt, Rainer Klages |
-| 14:30 | [Heterogeneity mimics ageing for endosomal dynamics within eukaryotic cells]({{< relref "/talks/talk122" >}}) | Nickolay Korabel, Alessandro Taloni, Gianni Pagnini, Viki Allan, Sergei Fedotov, Thomas Andrew Waigh |
-| 14:50 | [Quantum adaptive agents with efficient long-term memories]({{< relref "/talks/talk299" >}}) | Thomas Elliott, Mile Gu, Andrew Garner, Jayne Thompson |
-| 15:10 | [Stochastic drift in discrete waves of nonlocally interacting particles]({{< relref "/talks/talk127" >}}) | Andrei Sontag, Tim Rogers, Christian A Yates |
+| 14:30 | [Quantum adaptive agents with efficient long-term memories]({{< relref "/talks/talk299" >}}) | Thomas Elliott, Mile Gu, Andrew Garner, Jayne Thompson |
+| 14:50 | [Stochastic drift in discrete waves of nonlocally interacting particles]({{< relref "/talks/talk127" >}}) | Andrei Sontag, Tim Rogers, Christian A Yates |
+| 15:10 | [Heterogeneity mimics ageing for endosomal dynamics within eukaryotic cells]({{< relref "/talks/talk122" >}}) | Nickolay Korabel, Alessandro Taloni, Gianni Pagnini, Viki Allan, Sergei Fedotov, Thomas Andrew Waigh |
 
 ### [Biofilms and pattern formation]({{< relref "/sessions/session37" >}}) (in 3Q68)
 

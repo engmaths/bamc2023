@@ -109,12 +109,11 @@ bookToc: false
 
 | Time | Title | Authors |
 |:-----|:------|:--------|
-| 14:10 | [Mathematics on the brain: Modelling clearance and proteopathy in Alzheimer's disease]({{< relref "/talks/talk324" >}}) | Georgia S Brennan, Alain Goriely FRS, Marie E Rognes, Travis B Thompson, Hadrien Oliveri |
-| 14:30 | [Neuronal Network Model of the Medial Amygdala]({{< relref "/talks/talk026" >}}) | Kate Nechyporenko |
-| 14:50 | [Rheology of growing axons]({{< relref "/talks/talk243" >}}) | Hadrien Oliveri, Rijk de Rooij, Ellen Kuhl, Alain Goriely |
-| 15:10 | [Interdisciplinary modelling and experimentation reveal microglia heterogenity during mouse development]({{< relref "/talks/talk038" >}}) | W Duncan Martinson, Carles Falco, Marta Pereira, Amanda Sierra, Jose Carrillo |
-| 15:30 | [A statistical approach to infer connectivity in complex networks using the mutual information rate]({{< relref "/talks/talk216" >}}) | Huseyin Yildirim, Chris Antonopoulos |
-| 15:50 | [Stochastic fibre networks: the effects of network structure on percolation and elastic moduli]({{< relref "/talks/talk107" >}}) | Amir Hossein Namdar, Tom Shearer, Alberto Saiani |
+| 14:10 | [Neuronal Network Model of the Medial Amygdala]({{< relref "/talks/talk026" >}}) | Kate Nechyporenko |
+| 14:30 | [Rheology of growing axons]({{< relref "/talks/talk243" >}}) | Hadrien Oliveri, Rijk de Rooij, Ellen Kuhl, Alain Goriely |
+| 14:50 | [Interdisciplinary modelling and experimentation reveal microglia heterogenity during mouse development]({{< relref "/talks/talk038" >}}) | W Duncan Martinson, Carles Falco, Marta Pereira, Amanda Sierra, Jose Carrillo |
+| 15:10 | [A statistical approach to infer connectivity in complex networks using the mutual information rate]({{< relref "/talks/talk216" >}}) | Huseyin Yildirim, Chris Antonopoulos |
+| 15:30 | [Stochastic fibre networks: the effects of network structure on percolation and elastic moduli]({{< relref "/talks/talk107" >}}) | Amir Hossein Namdar, Tom Shearer, Alberto Saiani |
 
 ### [Boundary layer flows and stability]({{< relref "/sessions/session19" >}}) (in 4Q08)
 

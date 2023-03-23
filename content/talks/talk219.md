@@ -7,7 +7,7 @@ bookToc: false
 
 **Wesley Shao, Hermes Gadelha**
 
-15:10 Tuesday in 2Q48.
+14:50 Tuesday in 2Q48.
 
 Part of the *[Self-propulsion and fluid-body interactions]({{< relref "/sessions/session34" >}})* session.
 
