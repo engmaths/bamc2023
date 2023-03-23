@@ -13,7 +13,7 @@ bookToc: false
 |:-----|:------|:--------|
 | 10:30 | [Gunwale bobbing and the effect of heave and pitch during a rowing race]({{< relref "/talks/talk145" >}}) | Graham P Benham |
 | 10:50 | [Improving the self-stability of a bicycle via spectral abscissa minimisation]({{< relref "/talks/talk113" >}}) | Oleg Kirillov |
-| 11:10 | [Effects of friction and tangential compliance in golf ball bounce]({{< relref "/talks/talk170" >}}) | Stanislaw W Biber, Alan R Champneys, Robert Szalai |
+| 11:10 | [Effects of friction and tangential compliance in golf ball bounce]({{< relref "/talks/talk170" >}}) | Stanisław W Biber, Alan R Champneys, Robert Szalai |
 | 11:30 | [Alpine pendulum]({{< relref "/talks/talk210" >}}) | Serguei Komissarov |
 | 11:50 | [Analysis of Soccer Ball Collision Kinematics and Kinetics Using Image Processing Techniques]({{< relref "/talks/talk168" >}}) | Ieuan Phillips, Andy Harland, Séan Mitchell, Paul Lepper |
 | 12:10 | [Exploration into the spatial and temporal movement of the female breast during motion.]({{< relref "/talks/talk248" >}}) | Lauren Holmes, Andy Harland |

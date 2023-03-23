@@ -46,9 +46,8 @@ bookToc: false
 |:-----|:------|:--------|
 | 14:10 | [Practical application of quantitative systems toxicology models in drug development: learnings and case studies from the IMI2-tQST project]({{< relref "/talks/talk345" >}}) | Ciarán Fisher |
 | 14:50 | [Extensions of receptor theory to include dimerised and dimerising receptor dynamics]({{< relref "/talks/talk273" >}}) | Lloyd Bridge, Carla White |
-| 15:10 | [Physiologically-Based Pharmacokinetic Modelling: The Double-Edged Sword of Complexity]({{< relref "/talks/talk400" >}}) | Aleksandra Kmieciak |
-| 15:30 | [Cybergenetics applications in mammalian cells: closing the loop on non-linear dynamics]({{< relref "/talks/talk357" >}}) | Lucia Marucci |
-| 15:50 | [Structural Identifiability Analysis: A Tool for Mathematical Pharmacology]({{< relref "/talks/talk341" >}}) | Michael Chappell, Neil D Evans |
+| 15:10 | [Cybergenetics applications in mammalian cells: closing the loop on non-linear dynamics]({{< relref "/talks/talk357" >}}) | Lucia Marucci |
+| 15:30 | [Structural Identifiability Analysis: A Tool for Mathematical Pharmacology]({{< relref "/talks/talk341" >}}) | Michael Chappell, Neil D Evans |
 
 ### [Mathematical and computational ophthalmology]({{< relref "/sessions/session20" >}}) (in 4Q56)
 

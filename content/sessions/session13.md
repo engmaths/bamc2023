@@ -27,24 +27,17 @@ Mathematical Pharmacology is a growing area of endeavour. Traditionally routed i
 14:50 Monday in 2Q50/51.
 
 
-## [Physiologically-Based Pharmacokinetic Modelling: The Double-Edged Sword of Complexity]({{< relref "/talks/talk400" >}})
-
-**Aleksandra Kmieciak**
-
-15:10 Monday in 2Q50/51.
-
-
 ## [Cybergenetics applications in mammalian cells: closing the loop on non-linear dynamics]({{< relref "/talks/talk357" >}})
 
 **Lucia Marucci**
 
-15:30 Monday in 2Q50/51.
+15:10 Monday in 2Q50/51.
 
 
 ## [Structural Identifiability Analysis: A Tool for Mathematical Pharmacology]({{< relref "/talks/talk341" >}})
 
 **Michael Chappell, Neil D Evans**
 
-15:50 Monday in 2Q50/51.
+15:30 Monday in 2Q50/51.
 
 

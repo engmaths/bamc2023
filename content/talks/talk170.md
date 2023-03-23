@@ -5,7 +5,7 @@ bookToc: false
 
 # Effects of friction and tangential compliance in golf ball bounce
 
-**Stanislaw W Biber, Alan R Champneys, Robert Szalai**
+**Stanisław W Biber, Alan R Champneys, Robert Szalai**
 
 11:10 Tuesday in 2Q42.
 

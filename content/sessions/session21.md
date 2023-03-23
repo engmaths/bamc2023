@@ -29,7 +29,7 @@ This minisymposium will cover some ongoing areas of research in the mathematical
 
 ## [Effects of friction and tangential compliance in golf ball bounce]({{< relref "/talks/talk170" >}})
 
-**Stanislaw W Biber, Alan R Champneys, Robert Szalai**
+**Stanisław W Biber, Alan R Champneys, Robert Szalai**
 
 11:10 Tuesday in 2Q42.
 
