@@ -22,9 +22,9 @@ bookToc: false
 10:50 Tuesday in 3Q68.
 
 
-## [Treatment Planning for Brachytherapy Radiation Problems]({{< relref "/talks/talk313" >}})
+## [Cancelled talk]({{< relref "/talks/talk313" >}})
 
-**Jennifer Power**
+****
 
 11:10 Tuesday in 3Q68.
 

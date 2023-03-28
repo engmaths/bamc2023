@@ -28,7 +28,7 @@ submissions = CSV.read("submissions.csv", DataFrame; normalizenames = true, ntas
 submissions.Session .= replace.(coalesce.(submissions.Session, ""), "agent based models"=>"agent-based models")
 submissions.Title_of_presentation_or_poster .= replace.(submissions.Title_of_presentation_or_poster, "\""=>"")
 submissions.Title_of_presentation_or_poster .= replace.(submissions.Title_of_presentation_or_poster, "₵"=>"ℂ")
-submissions.Name_of_presenter .= replace.(submissions.Name_of_presenter, "Stanislaw"=>"Stanisław")
+submissions.Name_of_presenter .= replace.(coalesce.(submissions.Name_of_presenter, ""), "Stanislaw"=>"Stanisław")
 
 # Remove lines with missing IDs
 subset!(submissions, :ID => ByRow((!) ∘ ismissing))
@@ -132,7 +132,7 @@ function normalise_names(firstauthor, otherauthors)
     # Special cases
     allauthors = replace(allauthors, ", Concordia University" => "")
     allauthors = replace(allauthors, ", University of Surrey" => "")
-    if allauthors[end] == ','
+    if (length(allauthors) > 0) && allauthors[end] == ','
         allauthors = allauthors[1:end-1]
     end
     return allauthors

@@ -97,7 +97,7 @@ bookToc: false
 |:-----|:------|:--------|
 | 10:30 | [Mathematical modelling of drug release from porous granules ]({{< relref "/talks/talk223" >}}) | Kevin Moroney, Michael Vynnycky |
 | 10:50 | [Owls, larks and tongues – sleep timing in the two-process model of sleep-wake regulation ]({{< relref "/talks/talk276" >}}) | Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon |
-| 11:10 | [Treatment Planning for Brachytherapy Radiation Problems]({{< relref "/talks/talk313" >}}) | Jennifer Power |
+| 11:10 | [Cancelled talk]({{< relref "/talks/talk313" >}}) |  |
 | 11:30 | [Network methods for analysing time-series from complex interacting systems]({{< relref "/talks/talk305" >}}) | Ramón Nartallo-Kaluarachchi, Alain Goriely, Renaud Lambiotte, Morten Kringelbach |
 | 11:50 | [Modelling spherical and axisymmetric vapour bubbles arising in the treatment of kidney stones]({{< relref "/talks/talk096" >}}) | Sophie Abrahams, Bing Yang, Jessica Williams, Ben Turney, Robin Cleveland, Sarah Waters, Derek Moulton |
 | 12:10 | [Mathematically modelling the role of Matrix Metalloproteinases in the development of chronic wounds]({{< relref "/talks/talk051" >}}) | Sonia Dari |

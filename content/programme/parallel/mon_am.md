@@ -82,7 +82,6 @@ bookToc: false
 | 11:50 | [A novel algorithmic approach to simulating cell-cell interactions in lung cancer initiation]({{< relref "/talks/talk059" >}}) | Helena Coggan, Philip Pearce, Mohit Dalwadi, Clare Weeden, Karen Page, Charles Swanton |
 | 12:10 | [Modelling the Coupling of Calcium Signalling and Mechanics in Embryogenesis]({{< relref "/talks/talk232" >}}) | Abhishek Chakraborty, Katerina Kaouri, Timothy N Phillips, Philip K Maini, Ruth E Baker, Neophytos Christodoulou, Paris Skourides |
 | 12:30 | [A one-dimensional continuum model for ventral stress fibre formation]({{< relref "/talks/talk246" >}}) | Gordon R McNicol, Peter S Stewart, Matthew J Dalby |
-| 12:50 | [Bilateral Feedback in Oscillator Model Is Required to Explain the Coupling Dynamics of Hes1 with the Cell Cycle]({{< relref "/talks/talk042" >}}) | Andrew Rowntree, Nancy Papalopulu |
 
 ### [Droplets and impact]({{< relref "/sessions/session07" >}}) (in 4Q04)
 
