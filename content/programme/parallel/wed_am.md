@@ -11,7 +11,7 @@ bookToc: false
 
 | Time | Title | Authors |
 |:-----|:------|:--------|
-| 10:30 | [Mathematical modelling of the wheat circadian clock]({{< relref "/talks/talk257" >}}) | Abhishek Upadhyay, Jamila Rowland-Chandler, Gabriela Pingarron-Cardenas, Alex Webb, James Locke |
+| 10:30 | [Owls, larks and tongues – sleep timing in the two-process model of sleep-wake regulation ]({{< relref "/talks/talk276" >}}) | Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon |
 | 10:50 | [Modelling the cell-autonomous lung circadian clock]({{< relref "/talks/talk258" >}}) | Matthew Leak |
 | 11:10 | [Ticking and talking in the brainstem satiety centre: A phase model of three clocks    ]({{< relref "/talks/talk307" >}}) | Jake Ahern, Lukasz Chrobok, Hugh Piggins, Alan Champneys |
 | 11:30 | [TimeTeller: a tool to analyse from data the circadian clock as a multigene dynamical system.]({{< relref "/talks/talk333" >}}) | David Rand |

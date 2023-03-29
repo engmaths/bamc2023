@@ -5,7 +5,7 @@ bookToc: false
 
 # Compression-driven displacement flows in an axisymmetric Hele-Shaw geometry
 
-**Callum Cuttle, Christopher W MacMinn**
+**Callum Cuttle, Liam Morrow, Christopher W MacMinn**
 
 14:50 Tuesday in 4Q08.
 

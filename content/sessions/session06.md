@@ -43,3 +43,10 @@ bookToc: false
 12:30 Monday in 3Q68.
 
 
+## [Bilateral Feedback in Oscillator Model Is Required to Explain the Coupling Dynamics of Hes1 with the Cell Cycle]({{< relref "/talks/talk042" >}})
+
+**Andrew Rowntree, Nancy Papalopulu**
+
+12:50 Monday in 3Q68.
+
+

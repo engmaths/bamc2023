@@ -15,9 +15,9 @@ This minisymposium will be at the intersection of physiology and mathematics as 
 
 
 
-## [Mathematical modelling of the wheat circadian clock]({{< relref "/talks/talk257" >}})
+## [Owls, larks and tongues – sleep timing in the two-process model of sleep-wake regulation ]({{< relref "/talks/talk276" >}})
 
-**Abhishek Upadhyay, Jamila Rowland-Chandler, Gabriela Pingarron-Cardenas, Alex Webb, James Locke**
+**Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon**
 
 10:30 Wednesday in 2Q42.
 

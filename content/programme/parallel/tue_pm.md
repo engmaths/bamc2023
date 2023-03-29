@@ -121,6 +121,6 @@ bookToc: false
 | 13:50 | [Numerical Study of Mixed convection flow in a lid-driven enclosure filled water– Aluminium oxide nanofluid.]({{< relref "/talks/talk060" >}}) | Wasaif Alruwaele |
 | 14:10 | [Modelling rare rupture of nanoscale liquid thin films]({{< relref "/talks/talk099" >}}) | Jingbang Liu, James Sprittles, Duncan Lockerby, Tobias Grafke |
 | 14:30 | [A Hele-Shaw Newton's cradle: Circular bubbles in a Hele-Shaw channel]({{< relref "/talks/talk010" >}}) | Daniel Booth, Ian Griffiths, Peter Howell |
-| 14:50 | [Compression-driven displacement flows in an axisymmetric Hele-Shaw geometry]({{< relref "/talks/talk338" >}}) | Callum Cuttle, Christopher W MacMinn |
+| 14:50 | [Compression-driven displacement flows in an axisymmetric Hele-Shaw geometry]({{< relref "/talks/talk338" >}}) | Callum Cuttle, Liam Morrow, Christopher W MacMinn |
 | 15:10 | [The bead and spring system with regularised stokeslet to model poroelasticity]({{< relref "/talks/talk077" >}}) | Berk Altunkeyik |
 

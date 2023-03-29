@@ -13,6 +13,6 @@ Part of the *[Mathematical medicine]({{< relref "/sessions/session27" >}})* sess
 
 ## Abstract
 
-missing
+The talk that had been scheduled for this slot will no longer be taking place
 
 

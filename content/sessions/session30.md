@@ -43,9 +43,9 @@ bookToc: false
 11:50 Tuesday in 4Q07.
 
 
-## [Rare events in atmospheric jets]({{< relref "/talks/talk053" >}})
+## [Cancelled talk]({{< relref "/talks/talk053" >}})
 
-**Nayef Shkeir, Tobias Grafke, Eric Vanden-Eijnden**
+****
 
 12:10 Tuesday in 4Q07.
 

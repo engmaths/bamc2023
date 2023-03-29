@@ -7,11 +7,13 @@ bookToc: false
 
 **Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon**
 
-10:50 Tuesday in 3Q68.
+10:30 Wednesday in 2Q42.
 
-Part of the *[Mathematical medicine]({{< relref "/sessions/session27" >}})* session.
+Part of the *[Mathematical modelling of sleep and circadian rhythms: from molecular mechanisms to policy]({{< relref "/sessions/session42" >}})* session.
 
 ## Abstract
+
+NOTE: This talk replaces the previously-scheduled talk by Abishek Upadhyay et al., which has been cancelled
 
 Rachel Bernasconi: 1 ; Derk-Jan Dijk: 2,3 ; Anne Skeldon: 1,3
 1Department of Mathematics, University of Surrey, Guildford, UK

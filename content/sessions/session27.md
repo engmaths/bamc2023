@@ -15,9 +15,9 @@ bookToc: false
 10:30 Tuesday in 3Q68.
 
 
-## [Owls, larks and tongues – sleep timing in the two-process model of sleep-wake regulation ]({{< relref "/talks/talk276" >}})
+## [Rearranged talk (click for details)]({{< relref "/talks/talk999" >}})
 
-**Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon**
+****
 
 10:50 Tuesday in 3Q68.
 
