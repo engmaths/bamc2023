@@ -1,6 +1,14 @@
+# Save Excel file as submissions.csv (UTF-8 format) and run this script
+
 ## Setup
 using Pkg: Pkg;
 Pkg.activate(@__DIR__);
+
+if !isfile(joinpath(@__DIR__, "installed_packages"))
+    Pkg.resolve()
+    Pkg.instantiate()
+    touch(joinpath(@__DIR__, "installed_packages"))
+end
 
 using CSV, DataFrames, Dates
 
