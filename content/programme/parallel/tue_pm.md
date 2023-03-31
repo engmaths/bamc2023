@@ -78,7 +78,7 @@ bookToc: false
 | 14:10 | [Understanding the transition to superdiffusion in a simple one-dimensional deterministic map by stochastic Lévy walk models]({{< relref "/talks/talk162" >}}) | Samuel Brevitt, Rainer Klages |
 | 14:30 | [Quantum adaptive agents with efficient long-term memories]({{< relref "/talks/talk299" >}}) | Thomas Elliott, Mile Gu, Andrew Garner, Jayne Thompson |
 | 14:50 | [Stochastic drift in discrete waves of nonlocally interacting particles]({{< relref "/talks/talk127" >}}) | Andrei Sontag, Tim Rogers, Christian A Yates |
-| 15:10 | [Heterogeneity mimics ageing for endosomal dynamics within eukaryotic cells]({{< relref "/talks/talk122" >}}) | Nickolay Korabel, Alessandro Taloni, Gianni Pagnini, Viki Allan, Sergei Fedotov, Thomas Andrew Waigh |
+| 15:10 | [Cancelled talk]({{< relref "/talks/talk122" >}}) |  |
 
 ### [Biofilms and pattern formation]({{< relref "/sessions/session37" >}}) (in 3Q68)
 

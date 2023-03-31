@@ -115,7 +115,7 @@ bookToc: false
 | 11:50 | [Optimisation of Power Grid Stability Under Uncertainty]({{< relref "/talks/talk062" >}}) | John Moloney |
 | 12:10 | [On the Insight Provided by Asymptotic Analysis in Perovskite Solar Cell Modelling]({{< relref "/talks/talk082" >}}) | Will Clarke, Giles Richardson |
 | 12:30 | [Isodrastic Magnetic fields for suppressing transitions in guiding-centre motion]({{< relref "/talks/talk298" >}}) | Shibabrat Naik, Joshua W Burby, Robert S MacKay |
-| 12:50 | [Stochastic Simulations of the Low-to-High Confinement Transition in Magnetic Confinement Fusion Plasma]({{< relref "/talks/talk326" >}}) | Patrick Fuller |
+| 12:50 | [Cancelled talk]({{< relref "/talks/talk326" >}}) |  |
 
 ### [Analysis of continuum mechanics]({{< relref "/sessions/session10" >}}) (in 4Q08)
 

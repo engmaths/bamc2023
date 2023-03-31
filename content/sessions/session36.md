@@ -43,9 +43,9 @@ bookToc: false
 14:50 Tuesday in 3Q16.
 
 
-## [Heterogeneity mimics ageing for endosomal dynamics within eukaryotic cells]({{< relref "/talks/talk122" >}})
+## [Cancelled talk]({{< relref "/talks/talk122" >}})
 
-**Nickolay Korabel, Alessandro Taloni, Gianni Pagnini, Viki Allan, Sergei Fedotov, Thomas Andrew Waigh**
+****
 
 15:10 Tuesday in 3Q16.
 

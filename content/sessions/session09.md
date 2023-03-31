@@ -43,9 +43,9 @@ bookToc: false
 12:30 Monday in 4Q07.
 
 
-## [Stochastic Simulations of the Low-to-High Confinement Transition in Magnetic Confinement Fusion Plasma]({{< relref "/talks/talk326" >}})
+## [Cancelled talk]({{< relref "/talks/talk326" >}})
 
-**Patrick Fuller**
+****
 
 12:50 Monday in 4Q07.
 
