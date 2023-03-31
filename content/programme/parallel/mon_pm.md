@@ -93,7 +93,7 @@ bookToc: false
 | 14:50 | [Efficient simulation for time-dependent Hamiltonians]({{< relref "/talks/talk112" >}}) | Guannan Chen, Pranav Singh, Mohammadali Foroozandeh, Chris Budd |
 | 15:10 | [Extremization to Fine Tune Physics Informed Neural Networks to Solve Boundary Value Problems.]({{< relref "/talks/talk169" >}}) | Abhiram Anand Thiruthummal, Sergiy Shelyag, Eun-jin Kim |
 | 15:30 | [Mathematical modelling and optimization of photonic metamaterials]({{< relref "/talks/talk186" >}}) | Benjamin Vial |
-| 15:50 | [Least squares PGD methods for solving elliptic PDEs]({{< relref "/talks/talk285" >}}) | Layla Sadeghi Namaghi |
+| 15:50 | [Cancelled talk]({{< relref "/talks/talk285" >}}) |  |
 
 ### [Solid mechanics]({{< relref "/sessions/session17" >}}) (in 4Q05)
 

@@ -43,9 +43,9 @@ bookToc: false
 15:30 Monday in 4Q04.
 
 
-## [Least squares PGD methods for solving elliptic PDEs]({{< relref "/talks/talk285" >}})
+## [Cancelled talk]({{< relref "/talks/talk285" >}})
 
-**Layla Sadeghi Namaghi**
+****
 
 15:50 Monday in 4Q04.
 
