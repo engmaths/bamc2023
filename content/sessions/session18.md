@@ -15,9 +15,9 @@ bookToc: false
 14:10 Monday in 4Q07.
 
 
-## [Rheology of growing axons]({{< relref "/talks/talk243" >}})
+## [Cancelled talk]({{< relref "/talks/talk243" >}})
 
-**Hadrien Oliveri, Rijk de Rooij, Ellen Kuhl, Alain Goriely**
+****
 
 14:30 Monday in 4Q07.
 
