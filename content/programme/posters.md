@@ -18,6 +18,7 @@ weight: 7
 - [Improving Power by Conditioning on Major SNPs in Genetic Association Studies (GWAS)]({{< relref "/talks/talk344" >}})
 - [Investigating the influence of growth arrest mechanisms on tumour responses to radiotherapy]({{< relref "/talks/talk133" >}})
 - [LinearParareal: accelerating the time-parallel simulation of linear IVPs]({{< relref "/talks/talk155" >}})
+- [Microrobotic Swimmer Motions-Three Linked Spheres at Low Reynolds Number]({{< relref "/talks/talk018" >}})
 - [Microtubules organisation within a biological cell using mean field theory]({{< relref "/talks/talk204" >}})
 - [Multiscale Mathematical Modelling of Bacterial Quorum Sensing]({{< relref "/talks/talk157" >}})
 - [Multiscale Modelling Of Aortic Dissections Using Asymptotic Homogenisation And A Damage Phase-Field Model]({{< relref "/talks/talk134" >}})

@@ -43,9 +43,9 @@ bookToc: false
 15:30 Monday in 4Q08.
 
 
-## [Cancelled talk]({{< relref "/talks/talk303" >}})
+## [A novel analytic representation of the boundary layer velocity for uniform flow past a semi-infinite flat plate (Blasius solution)]({{< relref "/talks/talk303" >}})
 
-****
+**Edmund E Chadwick, Hamid A Adamu**
 
 15:50 Monday in 4Q08.
 

@@ -124,5 +124,5 @@ bookToc: false
 | 14:50 | [Boundary layer flows over rough surfaces ]({{< relref "/talks/talk268" >}}) | Jason Ferguson |
 | 15:10 | [Taylor dispersion-controlled stability of flames aligned parallel to a shear flow]({{< relref "/talks/talk235" >}}) | Prabakaran Rajamanickam, Joel Daou, Aiden Kelly |
 | 15:30 | [Premixed flame stability under flow-induced anisotropic diffusion and heat loss]({{< relref "/talks/talk200" >}}) | Aiden Kelly, Joel Daou, Julien Landel |
-| 15:50 | [Cancelled talk]({{< relref "/talks/talk303" >}}) |  |
+| 15:50 | [A novel analytic representation of the boundary layer velocity for uniform flow past a semi-infinite flat plate (Blasius solution)]({{< relref "/talks/talk303" >}}) | Edmund E Chadwick, Hamid A Adamu |
 
