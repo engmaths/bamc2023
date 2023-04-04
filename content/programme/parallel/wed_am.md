@@ -11,11 +11,11 @@ bookToc: false
 
 | Time | Title | Authors |
 |:-----|:------|:--------|
-| 10:30 | [Owls, larks and tongues – sleep timing in the two-process model of sleep-wake regulation ]({{< relref "/talks/talk276" >}}) | Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon |
+| 10:30 | [Regulation of human sleep timing and physiology by biological oscillators coding for history and time and influenced by environmental cycles]({{< relref "/talks/talk255" >}}) | Derk-Jan Dijk |
 | 10:50 | [Modelling the cell-autonomous lung circadian clock]({{< relref "/talks/talk258" >}}) | Matthew Leak |
 | 11:10 | [Ticking and talking in the brainstem satiety centre: A phase model of three clocks    ]({{< relref "/talks/talk307" >}}) | Jake Ahern, Lukasz Chrobok, Hugh Piggins, Alan Champneys |
 | 11:30 | [TimeTeller: a tool to analyse from data the circadian clock as a multigene dynamical system.]({{< relref "/talks/talk333" >}}) | David Rand |
-| 11:50 | [Regulation of human sleep timing and physiology by biological oscillators coding for history and time and influenced by environmental cycles]({{< relref "/talks/talk255" >}}) | Derk-Jan Dijk |
+| 11:50 | [Owls, larks and tongues – sleep timing in the two-process model of sleep-wake regulation ]({{< relref "/talks/talk276" >}}) | Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon |
 | 12:10 | [Maths, sleep and policies for 21st century living]({{< relref "/talks/talk256" >}}) | Anne Skeldon |
 
 ### [Optimisation and control for nonlinear dynamics]({{< relref "/sessions/session43" >}}) (in 2Q48)

@@ -15,9 +15,9 @@ This minisymposium will be at the intersection of physiology and mathematics as 
 
 
 
-## [Owls, larks and tongues – sleep timing in the two-process model of sleep-wake regulation ]({{< relref "/talks/talk276" >}})
+## [Regulation of human sleep timing and physiology by biological oscillators coding for history and time and influenced by environmental cycles]({{< relref "/talks/talk255" >}})
 
-**Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon**
+**Derk-Jan Dijk**
 
 10:30 Wednesday in 2Q42.
 
@@ -43,9 +43,9 @@ This minisymposium will be at the intersection of physiology and mathematics as 
 11:30 Wednesday in 2Q42.
 
 
-## [Regulation of human sleep timing and physiology by biological oscillators coding for history and time and influenced by environmental cycles]({{< relref "/talks/talk255" >}})
+## [Owls, larks and tongues – sleep timing in the two-process model of sleep-wake regulation ]({{< relref "/talks/talk276" >}})
 
-**Derk-Jan Dijk**
+**Rachel Bernasconi, Derk-Jan Dijk, Anne Skeldon**
 
 11:50 Wednesday in 2Q42.
 
